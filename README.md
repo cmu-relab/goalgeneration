@@ -30,7 +30,7 @@ If you find our repository or paper useful, please cite us as:
 
 # Artifact Location
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15664317.svg)](https://doi.org/10.5281/zenodo.15664317)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15664316.svg)](https://doi.org/10.5281/zenodo.15664316)
 
 GitHub:
 https://github.com/cmu-relab/goalgeneration/
