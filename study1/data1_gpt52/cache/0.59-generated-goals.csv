@@ -1,0 +1,25 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: Huh! I guess one challenge that I face sometimes is that my phone, sometimes buffers or something like that. that's not really a problem with the streaming app. That's more of a problem with other stuff. Sometimes, if I'm going on a long trip. and I have, like really good Wi-fi beforehand. I'll download like 10 h worth of videos or something, and I'll just listen to it as I drive. So I guess that's a big part of my Youtube experience per time. But those aren't necessarily the hours that I like to to spend that's just a way to fill the time yeah
+
+Stakeholder: I see.
+
+Interviewer: That's. And that's another thing that [Youtube makes really easy is downloading videos]. If you have the advanced version of the app, yeah.
+
+Stakeholder: It cool. Oh. do you have any additional comments on how streaming service could be optimized for your needs?
+",Download videos in advance when there is good Wi-Fi,1,0,[120],N
+1,"Interviewer: Huh! I guess one challenge that I face sometimes is that my phone, sometimes buffers or something like that. that's not really a problem with the streaming app. That's more of a problem with other stuff. Sometimes, [if I'm going on a long trip]. and I have, like really good Wi-fi beforehand. I'll download like 10 h worth of videos or something, and [I'll just listen to it as I drive]. So I guess that's a big part of my Youtube experience per time. But those aren't necessarily the hours that I like to to spend that's just a way to fill the time yeah
+
+Stakeholder: I see.
+
+Interviewer: That's. And that's another thing that Youtube makes really easy is downloading videos. If you have the advanced version of the app, yeah.
+
+Stakeholder: It cool. Oh. do you have any additional comments on how streaming service could be optimized for your needs?
+",Listen to downloaded videos while driving on long trips,2,0,"[118, 118]",N
+2,"Interviewer: Huh! I guess one challenge that I face sometimes is that my phone, sometimes buffers or something like that. that's not really a problem with the streaming app. That's more of a problem with other stuff. Sometimes, if I'm going on a long trip. and I have, like really good Wi-fi beforehand. I'll download like 10 h worth of videos or something, and [I'll just listen to it as I drive]. So I guess that's a big part of my Youtube experience per time. But those aren't necessarily the hours that I like to to spend [that's just a way to fill the time] yeah
+
+Stakeholder: I see.
+
+Interviewer: That's. And that's another thing that Youtube makes really easy is downloading videos. If you have the advanced version of the app, yeah.
+
+Stakeholder: It cool. Oh. do you have any additional comments on how streaming service could be optimized for your needs?
+",Fill time during long trips by listening to videos,2,0,"[118, 118]",N

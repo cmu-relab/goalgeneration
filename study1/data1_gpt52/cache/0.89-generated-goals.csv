@@ -1,0 +1,9 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: You're pretty satisfied. And what would you ideally want that rating to change to down the line? Are you happy with it being a 9. Would you really want it to be a 10 and.
+
+Stakeholder: [I kind of don't want them to change too many things], because. like like I said, it's pretty close to how useful it is to me. and I think [changing things might just make it worse].
+
+Interviewer: Okay. So you're worried about the regression aspect of it. Got it.
+
+Stakeholder: Yeah.
+",Avoid changing too many things,0,2,"[179, 179]",N

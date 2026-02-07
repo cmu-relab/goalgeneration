@@ -1,0 +1,9 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: So, for example, if you wanted to carry out the same set of actions on, I mean, if you wanted to reach the same goal on a different aggregator. You're saying that the set of actions you you'd have to perform are different, and that takes longer to navigate.
+
+Stakeholder: The user interface is different. It would take me definitely, slightly longer. Obviously, I mean, since we use different websites on a daily basis. It's not that hard to adapt to a different user interface. Because you're not. I'm not intimately familiar with. Let's say [where Kayak puts this exact filter that I want to apply], or this specific option that applies in this situation. So it might take me, let's say, 30 seconds or a minute more than it would take me at Skyscanner. because at Skyscanner I've like learned all of the options since I've used them. Naturally, you will start to have more of a familiarity. So it's like a you're quickly able to subconsciously grasp the option that you need and follow that path instead of actively having to search for it.
+
+Interviewer: Got it. So it's. Is it more of a mental load versus a time thing? Specifically.
+
+Stakeholder: Yeah, I mean, it's sort of both right? Because the mental load makes you take more time. It's not a lot of time, but it when you are having to do dozens and dozens of searches, being familiar with the user interface and being able to quickly key in things and search for things just saves you time. And as students, and I don't think I'm sure you are also familiar with this. I don't think times something. We have a lot of. So.
+",Apply a specific filter during a search,0,1,[145],N

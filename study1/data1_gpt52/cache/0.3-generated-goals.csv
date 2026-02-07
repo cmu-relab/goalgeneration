@@ -1,0 +1,41 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: Oh, wow! That's pretty comprehensive. I was wondering what is the most common feature that you believe helps you in your application process.
+
+Stakeholder: Okay. So the feature that I use most frequently, I would say, is [checking the news feed], because [when I open Linkedin it loads directly into the home tab]. and [from the home tab I can see like a scrollable list of posts], and [the posts are usually from the updates of my connections]. [Companies that I follow or Linkedin suggested Post], or like [the post, from the groups that I joined], and as I scroll I can see options under each post. I can either like comment or share the post, and if something interests me like a shared article on the latest technology, I can tap like, or sometimes I'll leave a comment. Yeah.
+
+Interviewer: Oh, wow! That sounds interesting. I am curious. How do you even find out the people that you connect with.
+
+Stakeholder: Okay, so for the people you mean, do you mean, like the groups that I join? Or how do I connect with people.
+","Check a news feed to see updates from connections, followed companies, suggested posts, and joined groups",0,6,"[7, 7, 7, 7, 7, 7]",N
+1,"Interviewer: Oh, wow! That's pretty comprehensive. I was wondering what is the most common feature that you believe helps you in your application process.
+
+Stakeholder: Okay. So the feature that I use most frequently, I would say, is checking the news feed, because when I open Linkedin it loads directly into the home tab. and from the home tab I can see like [a scrollable list of posts], and the posts are usually from the updates of my connections. Companies that I follow or Linkedin suggested Post, or like the post, from the groups that I joined, and [as I scroll] I can see options under each post. I can either like comment or share the post, and if something interests me like a shared article on the latest technology, I can tap like, or sometimes I'll leave a comment. Yeah.
+
+Interviewer: Oh, wow! That sounds interesting. I am curious. How do you even find out the people that you connect with.
+
+Stakeholder: Okay, so for the people you mean, do you mean, like the groups that I join? Or how do I connect with people.
+",Scroll through a list of posts,0,2,"[7, 7]",N
+2,"Interviewer: Oh, wow! That's pretty comprehensive. I was wondering what is the most common feature that you believe helps you in your application process.
+
+Stakeholder: Okay. So the feature that I use most frequently, I would say, is checking the news feed, because when I open Linkedin it loads directly into the home tab. and from the home tab I can see like a scrollable list of posts, and the posts are usually from the updates of my connections. Companies that I follow or Linkedin suggested Post, or like the post, from the groups that I joined, and as I scroll I can see options under each post. [I can either like comment or share the post], and if something interests me like a shared article on the latest technology, [I can tap like], or sometimes I'll leave a comment. Yeah.
+
+Interviewer: Oh, wow! That sounds interesting. I am curious. How do you even find out the people that you connect with.
+
+Stakeholder: Okay, so for the people you mean, do you mean, like the groups that I join? Or how do I connect with people.
+",React to a post by liking it,0,2,"[7, 7]",N
+3,"Interviewer: Oh, wow! That's pretty comprehensive. I was wondering what is the most common feature that you believe helps you in your application process.
+
+Stakeholder: Okay. So the feature that I use most frequently, I would say, is checking the news feed, because when I open Linkedin it loads directly into the home tab. and from the home tab I can see like a scrollable list of posts, and the posts are usually from the updates of my connections. Companies that I follow or Linkedin suggested Post, or like the post, from the groups that I joined, and as I scroll I can see options under each post. [I can either like comment or share the post], and if something interests me like a shared article on the latest technology, I can tap like, or [sometimes I'll leave a comment]. Yeah.
+
+Interviewer: Oh, wow! That sounds interesting. I am curious. How do you even find out the people that you connect with.
+
+Stakeholder: Okay, so for the people you mean, do you mean, like the groups that I join? Or how do I connect with people.
+",Comment on a post,0,2,"[7, 7]",N
+4,"Interviewer: Oh, wow! That's pretty comprehensive. I was wondering what is the most common feature that you believe helps you in your application process.
+
+Stakeholder: Okay. So the feature that I use most frequently, I would say, is checking the news feed, because when I open Linkedin it loads directly into the home tab. and from the home tab I can see like a scrollable list of posts, and the posts are usually from the updates of my connections. Companies that I follow or Linkedin suggested Post, or like the post, from the groups that I joined, and as I scroll I can see options under each post. [I can either like comment or share the post], and if something interests me like a shared article on the latest technology, I can tap like, or sometimes I'll leave a comment. Yeah.
+
+Interviewer: Oh, wow! That sounds interesting. I am curious. How do you even find out the people that you connect with.
+
+Stakeholder: Okay, so for the people you mean, do you mean, like the groups that I join? Or how do I connect with people.
+",Share a post,0,1,[7],N

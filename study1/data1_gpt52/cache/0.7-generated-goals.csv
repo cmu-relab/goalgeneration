@@ -1,0 +1,41 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: Hmm! Interesting. As a follow up. How has your experience been with alerts? Like, do you get them? How often do you get them and are you allowed to do any changes to the alerts.
+
+Stakeholder: Okay? So yeah, [you can like, manage the frequency]. So to manage the frequency, you can go to the jobs tab. And at the top of the screen. You can select preferences. and then there's a job alert button, and after that [you can manage the frequency for each like save job filters]. you can click on the pencil icon on the right of each filter, and [you can set like, whether you want to receive the recommendation on a daily basis, or like once a week]. and also set the notification type. Yeah.
+
+Interviewer: Alright you just mentioned about getting a job saved. But how do you even access those.
+
+Stakeholder: Okay. So to access those safe jobs you can like. Still, we're talking about the jobs tab. And on the top of the screen, there's my jobs. And after that you can see, like, different categories of jobs. And there's a save jobs. Tab, tab, and you can just click on the saved button, and below there will be a list of all the safe jobs. and beside this you can also see other categories that are which are in progress or applied or archived. Yeah.
+",Manage the frequency of receiving alerts for each saved job filter,0,3,"[15, 15, 15]",N
+1,"Interviewer: Hmm! Interesting. As a follow up. How has your experience been with alerts? Like, do you get them? How often do you get them and are you allowed to do any changes to the alerts.
+
+Stakeholder: Okay? So yeah, you can like, manage the frequency. So to manage the frequency, you can go to the jobs tab. And at the top of the screen. You can select preferences. and then there's a job alert button, and after that you can manage the frequency for each like save job filters. you can click on the pencil icon on the right of each filter, and you can set like, whether you want to receive the recommendation on a daily basis, or like once a week. [and also set the notification type]. Yeah.
+
+Interviewer: Alright you just mentioned about getting a job saved. But how do you even access those.
+
+Stakeholder: Okay. So to access those safe jobs you can like. Still, we're talking about the jobs tab. And on the top of the screen, there's my jobs. And after that you can see, like, different categories of jobs. And there's a save jobs. Tab, tab, and you can just click on the saved button, and below there will be a list of all the safe jobs. and beside this you can also see other categories that are which are in progress or applied or archived. Yeah.
+",Set the notification type for alerts,0,1,[15],N
+2,"Interviewer: Hmm! Interesting. As a follow up. How has your experience been with alerts? Like, do you get them? How often do you get them and are you allowed to do any changes to the alerts.
+
+Stakeholder: Okay? So yeah, you can like, manage the frequency. So to manage the frequency, you can go to the jobs tab. And at the top of the screen. You can select preferences. and then there's a job alert button, and after that you can manage the frequency for each like save job filters. you can click on the pencil icon on the right of each filter, and you can set like, whether you want to receive the recommendation on a daily basis, or like once a week. and also set the notification type. Yeah.
+
+Interviewer: Alright you just mentioned about getting a job saved. But how do you even access those.
+
+Stakeholder: [Okay. So to access those safe jobs] you can like. Still, we're talking about the jobs tab. And [on the top of the screen, there's my jobs]. And after that you can see, like, different categories of jobs. And there's a save jobs. Tab, tab, and [you can just click on the saved button], and below there will be a list of all the safe jobs. and beside this you can also see other categories that are which are in progress or applied or archived. Yeah.
+",Access saved jobs,0,3,"[17, 17, 17]",N
+3,"Interviewer: Hmm! Interesting. As a follow up. How has your experience been with alerts? Like, do you get them? How often do you get them and are you allowed to do any changes to the alerts.
+
+Stakeholder: Okay? So yeah, you can like, manage the frequency. So to manage the frequency, you can go to the jobs tab. And at the top of the screen. You can select preferences. and then there's a job alert button, and after that you can manage the frequency for each like save job filters. you can click on the pencil icon on the right of each filter, and you can set like, whether you want to receive the recommendation on a daily basis, or like once a week. and also set the notification type. Yeah.
+
+Interviewer: Alright you just mentioned about getting a job saved. But how do you even access those.
+
+Stakeholder: Okay. So to access those safe jobs you can like. Still, we're talking about the jobs tab. And on the top of the screen, there's my jobs. And after that you can see, like, different categories of jobs. And there's a save jobs. Tab, tab, and you can just click on the saved button, and [below there will be a list of all the safe jobs]. and beside this you can also see other categories that are which are in progress or applied or archived. Yeah.
+",View a list of all saved jobs,0,1,[17],N
+4,"Interviewer: Hmm! Interesting. As a follow up. How has your experience been with alerts? Like, do you get them? How often do you get them and are you allowed to do any changes to the alerts.
+
+Stakeholder: Okay? So yeah, you can like, manage the frequency. So to manage the frequency, you can go to the jobs tab. And at the top of the screen. You can select preferences. and then there's a job alert button, and after that you can manage the frequency for each like save job filters. you can click on the pencil icon on the right of each filter, and you can set like, whether you want to receive the recommendation on a daily basis, or like once a week. and also set the notification type. Yeah.
+
+Interviewer: Alright you just mentioned about getting a job saved. But how do you even access those.
+
+Stakeholder: Okay. So to access those safe jobs you can like. Still, we're talking about the jobs tab. And on the top of the screen, there's my jobs. And after that [you can see, like, different categories of jobs]. And [there's a save jobs]. Tab, tab, and you can just click on the saved button, and below there will be a list of all the safe jobs. and beside this [you can also see other categories that are which are in progress or applied or archived]. Yeah.
+","View jobs by category (saved, in progress, applied, archived)",0,3,"[17, 17, 17]",N

@@ -1,0 +1,25 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: Okay.
+
+Stakeholder: And also, I think sometimes [people just want to refresh their watch history, but not like completely. but just for temporarily, because they just need a temporary refresher]. So I think you can always go to incognito or log out and watch Youtube. But, any other like options would also work. Maybe, like. you know, pause this kind of videos for a while, and then show or show me new content.
+
+Interviewer: Okay. So you would like like a fresh start for sometimes when when you just don't wanna watch what's being recommended to you.
+
+Stakeholder: Yeah.
+",Temporarily refresh watch history,0,1,[167],N
+1,"Interviewer: Okay.
+
+Stakeholder: And also, I think sometimes people just want to refresh their watch history, but not like completely. but just for temporarily, because they just need a temporary refresher. So I think you can always go to incognito or log out and watch Youtube. But, any other like options would also work. Maybe, like. you know, [pause this kind of videos for a while], and then show or show me new content.
+
+Interviewer: Okay. So you would like like a fresh start for sometimes when when you just don't wanna watch what's being recommended to you.
+
+Stakeholder: Yeah.
+",Pause viewing certain kinds of videos for a while,0,1,[167],N
+2,"Interviewer: Okay.
+
+Stakeholder: And also, I think sometimes people just want to refresh their watch history, but not like completely. but just for temporarily, because they just need a temporary refresher. So I think you can always go to incognito or log out and watch Youtube. But, any other like options would also work. Maybe, like. you know, pause this kind of videos for a while, and [then show or show me new content].
+
+Interviewer: Okay. So you would like like a fresh start for sometimes when [when you just don't wanna watch what's being recommended to you].
+
+Stakeholder: Yeah.
+",See new content instead of current recommendations,1,1,"[167, 168]",Y

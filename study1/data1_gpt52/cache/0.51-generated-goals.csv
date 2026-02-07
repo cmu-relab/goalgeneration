@@ -1,0 +1,25 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: That's through 2 different editors. Is that something that you prefer to have in an editor or What would you want? Everything to already be in it.
+
+Stakeholder: Yeah. So actually, [I think extension or plugin, there's a must for editor], because, because is basically, the editor is just for it's just to edit any text based file. But for a developer you will need, like many things, to to make your develop pipeline easier and and also and also plug in your extension. That means there's a whole community supporting it. And no, nobody wants to use any products that backs of community that you you will. Yeah. So so yeah, so so basically for an editor, for a developer. You need to use the code to to develop your your work. You must. [The the editor must supports plugins or extensions], so that so that tools will fit like every requirements for me. Yeah.
+
+Interviewer: Okay? That's really good to know. And along with extensions, you kept mentioning communities that when you were learning vim instead of the documentation. You went to communities and.
+
+Stakeholder: And extend.
+",Use a text editor that supports plugins or extensions,0,2,"[103, 103]",N
+1,"Interviewer: That's through 2 different editors. Is that something that you prefer to have in an editor or What would you want? Everything to already be in it.
+
+Stakeholder: Yeah. So actually, I think extension or plugin, there's a must for editor, because, because is basically, the editor is just for it's just to edit any text based file. But for a developer [you will need, like many things, to to make your develop pipeline easier] and and also and also plug in your extension. That means there's a whole community supporting it. And no, nobody wants to use any products that backs of community that you you will. Yeah. So so yeah, so so basically for an editor, for a developer. You need to use the code to to develop your your work. You must. The the editor must supports plugins or extensions, so that so that tools will fit like every requirements for me. Yeah.
+
+Interviewer: Okay? That's really good to know. And along with extensions, you kept mentioning communities that when you were learning vim instead of the documentation. You went to communities and.
+
+Stakeholder: And extend.
+",Make the development pipeline easier,0,1,[103],N
+2,"Interviewer: That's through 2 different editors. Is that something that you prefer to have in an editor or What would you want? Everything to already be in it.
+
+Stakeholder: Yeah. So actually, I think extension or plugin, there's a must for editor, because, because is basically, the editor is just for it's just to edit any text based file. But for a developer you will need, like many things, to to make your develop pipeline easier and and also and also plug in your extension. That means there's a whole community supporting it. And no, nobody wants to use any products that backs of community that you you will. Yeah. So so yeah, so so basically for an editor, for a developer. You need to use the code to to develop your your work. You must. The the editor must supports plugins or extensions, [so that so that tools will fit like every requirements for me]. Yeah.
+
+Interviewer: Okay? That's really good to know. And along with extensions, you kept mentioning communities that when you were learning vim instead of the documentation. You went to communities and.
+
+Stakeholder: And extend.
+",Use tools that fit every requirement,0,1,[103],N

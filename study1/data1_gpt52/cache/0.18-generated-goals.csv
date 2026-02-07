@@ -1,0 +1,9 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: Okay. So what exactly is Fuzzy search here you mentioned it as a plugin. But
+
+Stakeholder: Right.
+
+Interviewer: It mean? And what are you doing with it?
+
+Stakeholder: Okay? So so yeah, so frossy, search actually, is, a is a kind of our reason to [let you like match the string].
+",Match a string,0,1,[39],N

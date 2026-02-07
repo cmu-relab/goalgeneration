@@ -1,0 +1,17 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: That's true. [But over the long term, if you were to switch to an app.] would it be because it's making you save, for example 5 min every time, or it's helping you.
+
+Stakeholder: [If I'm doing it long term I would definitely do it, even if it's saving me just a couple of minutes, because they add up.] but if it's for a specific instance, I might not find it worth it.
+
+Interviewer: Got it. Wow, okay, thank you so much. For the interview. I got to learn a lot today and thank you so much for being so patient and answering in a lot of detail.
+
+Stakeholder: Absolutely. I'm very happy to help you understand this topic better.
+",Save a couple of minutes each time by using a method over the long term,1,1,"[154, 155]",Y
+1,"Interviewer: That's true. But over the long term, if you were to switch to an app. would it be because it's making you save, for example 5 min every time, or it's helping you.
+
+Stakeholder: If I'm doing it long term I would definitely do it, even if it's saving me just a couple of minutes, because they add up. but if it's for a specific instance, I might not find it worth it.
+
+Interviewer: Got it. Wow, okay, thank you so much. For the interview. I got to learn a lot today and thank you so much for being so patient and answering in a lot of detail.
+
+Stakeholder: Absolutely. [I'm very happy to help you understand this topic better.]
+",Help someone understand the topic better,0,1,[157],N

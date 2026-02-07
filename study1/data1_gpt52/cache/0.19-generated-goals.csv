@@ -1,0 +1,41 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: It mean? And what are you doing with it?
+
+Stakeholder: Okay? So so yeah, so [frossy, search actually, is, a is a kind of our reason to let you like match the string.]
+
+Interviewer: Okay.
+
+Stakeholder: To. Yeah. So what fuzzy search use in vim is is helps you to find the file by its name. So actually, the Plugin. Just leverage the fuzzy. Search the algorithm in your vim, and when you type the search you can. You can like easily search your the file. You want very quick because [it leverage the fuzzy search] is a like algorithm to like search things really fast. And yeah, so so actually, the plugins is not for just for the fuzzy search the the target of the plugin is to search file, but [it leverage the fuzzy search] to let you easily and quickly find your file when you like. Projects get very, very large, like, for example, you need to find a log, and and there's a bunch of logs in your, in, your, in, your, in your project. Yeah. And also you can. You can use for like like stream matching. You can. You can search, you can search the stream across every files in your project. And I also [they also leverage fussy search because it's a string comparison. Algorithm.]
+",Match a typed string to relevant items using approximate matching,0,4,"[39, 41, 41]",N
+1,"Interviewer: It mean? And what are you doing with it?
+
+Stakeholder: Okay? So so yeah, so frossy, search actually, is, a is a kind of our reason to let you like match the string.
+
+Interviewer: Okay.
+
+Stakeholder: To. Yeah. So what [fuzzy search use in vim is is helps you to find the file by its name.] So actually, the Plugin. Just leverage the fuzzy. Search the algorithm in your vim, and when you type the search you can. You can like easily search your the file. You want very quick because it leverage the fuzzy search is a like algorithm to like search things really fast. And yeah, so so actually, the plugins is not for just for the fuzzy search the the target of the plugin is to search file, but it leverage the fuzzy search to let you easily and quickly find your file when you like. Projects get very, very large, like, for example, you need to find a log, and and there's a bunch of logs in your, in, your, in, your, in your project. Yeah. And also you can. You can use for like like stream matching. You can. You can search, you can search the stream across every files in your project. And I also they also leverage fussy search because it's a string comparison. Algorithm.
+",Find a file by its name,0,1,[41],N
+2,"Interviewer: It mean? And what are you doing with it?
+
+Stakeholder: Okay? So so yeah, so frossy, search actually, is, a is a kind of our reason to let you like match the string.
+
+Interviewer: Okay.
+
+Stakeholder: To. Yeah. So what fuzzy search use in vim is is helps you to find the file by its name. So actually, the Plugin. Just leverage the fuzzy. Search the algorithm in your vim, and [when you type the search you can. You can like easily search your the file. You want very quick] because it leverage the fuzzy search is a like algorithm to like search things really fast. And yeah, so so actually, the plugins is not for just for the fuzzy search the the target of the plugin is to search file, but it leverage the fuzzy search to [let you easily and quickly find your file when you like. Projects get very, very large], like, for example, you need to find a log, and and there's a bunch of logs in your, in, your, in, your, in your project. Yeah. And also you can. You can use for like like stream matching. You can. You can search, you can search the stream across every files in your project. And I also they also leverage fussy search because it's a string comparison. Algorithm.
+",Find a desired file quickly within a large project,0,2,"[41, 41]",N
+3,"Interviewer: It mean? And what are you doing with it?
+
+Stakeholder: Okay? So so yeah, so frossy, search actually, is, a is a kind of our reason to let you like match the string.
+
+Interviewer: Okay.
+
+Stakeholder: To. Yeah. So what fuzzy search use in vim is is helps you to find the file by its name. So actually, the Plugin. Just leverage the fuzzy. Search the algorithm in your vim, and when you type the search you can. You can like easily search your the file. You want very quick because it leverage the fuzzy search is a like algorithm to like search things really fast. And yeah, so so actually, the plugins is not for just for the fuzzy search the the target of the plugin is to search file, but it leverage the fuzzy search to let you easily and quickly find your file when you like. Projects get very, very large, like, [for example, you need to find a log, and and there's a bunch of logs in your, in, your, in, your, in your project.] Yeah. And also you can. You can use for like like stream matching. You can. You can search, you can search the stream across every files in your project. And I also they also leverage fussy search because it's a string comparison. Algorithm.
+",Locate a specific log file among many log files in a project,0,1,[41],N
+4,"Interviewer: It mean? And what are you doing with it?
+
+Stakeholder: Okay? So so yeah, so frossy, search actually, is, a is a kind of our reason to let you like match the string.
+
+Interviewer: Okay.
+
+Stakeholder: To. Yeah. So what fuzzy search use in vim is is helps you to find the file by its name. So actually, the Plugin. Just leverage the fuzzy. Search the algorithm in your vim, and when you type the search you can. You can like easily search your the file. You want very quick because it leverage the fuzzy search is a like algorithm to like search things really fast. And yeah, so so actually, the plugins is not for just for the fuzzy search the the target of the plugin is to search file, but it leverage the fuzzy search to let you easily and quickly find your file when you like. Projects get very, very large, like, for example, you need to find a log, and and there's a bunch of logs in your, in, your, in, your, in your project. Yeah. And also you can. You can use for like like stream matching. You can. [You can search, you can search the stream across every files in your project.] And I also they also leverage fussy search because it's a string comparison. Algorithm.
+",Search for a text string across all files in a project,0,1,[41],N

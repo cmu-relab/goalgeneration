@@ -1,0 +1,57 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: Okay. Hi, how are you doing.
+
+Stakeholder: Good! How are you?
+
+Interviewer: I'm good, too. Thank you for asking. How is your job? Search going on.
+
+Stakeholder: So, as you know, like the market is not that good now? But I still like [explored the opportunities on various job boards]. and I also use Linkedin because Linkedin helped me expand my professional network and stay updated with the industry. And also [I can explore job opportunities there]. So. yeah. And like, every time I open the app, I'm I usually want to either connect with someone new or just see the post from my network or browse the job postings and the job recommendations that I received from the app. Yeah.
+",Explore job opportunities,0,2,"[3, 3]",N
+1,"Interviewer: Okay. Hi, how are you doing.
+
+Stakeholder: Good! How are you?
+
+Interviewer: I'm good, too. Thank you for asking. How is your job? Search going on.
+
+Stakeholder: So, as you know, like the market is not that good now? But I still like explored the opportunities on various job boards. and I also use Linkedin because [Linkedin helped me expand my professional network] and stay updated with the industry. And also I can explore job opportunities there. So. yeah. And like, every time I open the app, I'm I usually want to either connect with someone new or just see the post from my network or browse the job postings and the job recommendations that I received from the app. Yeah.
+",Expand a professional network,0,1,[3],N
+2,"Interviewer: Okay. Hi, how are you doing.
+
+Stakeholder: Good! How are you?
+
+Interviewer: I'm good, too. Thank you for asking. How is your job? Search going on.
+
+Stakeholder: So, as you know, like the market is not that good now? But I still like explored the opportunities on various job boards. and I also use Linkedin because Linkedin helped me expand my professional network and [stay updated with the industry]. And also I can explore job opportunities there. So. yeah. And like, every time I open the app, I'm I usually want to either connect with someone new or just see the post from my network or browse the job postings and the job recommendations that I received from the app. Yeah.
+",Stay updated with an industry,0,1,[3],N
+3,"Interviewer: Okay. Hi, how are you doing.
+
+Stakeholder: Good! How are you?
+
+Interviewer: I'm good, too. Thank you for asking. How is your job? Search going on.
+
+Stakeholder: So, as you know, like the market is not that good now? But I still like explored the opportunities on various job boards. and I also use Linkedin because Linkedin helped me expand my professional network and stay updated with the industry. And also I can explore job opportunities there. So. yeah. And like, every time I open the app, I'm I usually want to either [connect with someone new] or just see the post from my network or browse the job postings and the job recommendations that I received from the app. Yeah.
+",Connect with someone new,0,1,[3],N
+4,"Interviewer: Okay. Hi, how are you doing.
+
+Stakeholder: Good! How are you?
+
+Interviewer: I'm good, too. Thank you for asking. How is your job? Search going on.
+
+Stakeholder: So, as you know, like the market is not that good now? But I still like explored the opportunities on various job boards. and I also use Linkedin because Linkedin helped me expand my professional network and stay updated with the industry. And also I can explore job opportunities there. So. yeah. And like, every time I open the app, I'm I usually want to either connect with someone new or just [see the post from my network] or browse the job postings and the job recommendations that I received from the app. Yeah.
+",See posts from a professional network,0,1,[3],N
+5,"Interviewer: Okay. Hi, how are you doing.
+
+Stakeholder: Good! How are you?
+
+Interviewer: I'm good, too. Thank you for asking. How is your job? Search going on.
+
+Stakeholder: So, as you know, like the market is not that good now? But I still like explored the opportunities on various job boards. and I also use Linkedin because Linkedin helped me expand my professional network and stay updated with the industry. And also I can explore job opportunities there. So. yeah. And like, every time I open the app, I'm I usually want to either connect with someone new or just see the post from my network or [browse the job postings] and the job recommendations that I received from the app. Yeah.
+",Browse job postings,0,1,[3],N
+6,"Interviewer: Okay. Hi, how are you doing.
+
+Stakeholder: Good! How are you?
+
+Interviewer: I'm good, too. Thank you for asking. How is your job? Search going on.
+
+Stakeholder: So, as you know, like the market is not that good now? But I still like explored the opportunities on various job boards. and I also use Linkedin because Linkedin helped me expand my professional network and stay updated with the industry. And also I can explore job opportunities there. So. yeah. And like, every time I open the app, I'm I usually want to either connect with someone new or just see the post from my network or browse the job postings and [the job recommendations that I received from the app]. Yeah.
+",View job recommendations,0,1,[3],N

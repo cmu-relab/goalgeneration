@@ -1,0 +1,17 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: One was the issues with searchability for Youtube shorts. And the second issue that you just mentioned about being able to have like a fresh start of sorts.
+
+Stakeholder: So the fresh start again would not help me in my day to day routine. It's not something I felt like in a long time. But I remember in the past there have been times where I felt like that. And [searching Youtube shorts would help me share videos more easily], because sometimes I don't share videos as soon as I see them. But I want to share them later on. And then that's when I try to look for them, so that would help.
+
+Interviewer: God, dude. are there? Could you maybe describe me, in brief, like the instances of where you felt that fatigue, and you wanted to have like a fresh outlook, but you're not able to do so.
+
+Stakeholder: I actually don't remember because it's been a long time. And I also think I felt that less towards Youtube and more towards I don't know. Like other social media platforms.
+",Share videos more easily,0,1,[173],N
+1,"Interviewer: One was the issues with searchability for Youtube shorts. And the second issue that you just mentioned about being able to have like a fresh start of sorts.
+
+Stakeholder: So the fresh start again would not help me in my day to day routine. It's not something I felt like in a long time. But I remember in the past there have been times where I felt like that. And searching Youtube shorts would help me share videos more easily, because [sometimes I don't share videos as soon as I see them]. [But I want to share them later on. And then that's when I try to look for them], so that would help.
+
+Interviewer: God, dude. are there? Could you maybe describe me, in brief, like the instances of where you felt that fatigue, and you wanted to have like a fresh outlook, but you're not able to do so.
+
+Stakeholder: I actually don't remember because it's been a long time. And I also think I felt that less towards Youtube and more towards I don't know. Like other social media platforms.
+",Find videos later in order to share them,0,2,"[173, 173]",N

@@ -1,0 +1,17 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: Alright I get the pain point. But I was just wondering how how often do you use Linkedin on a daily basis?
+
+Stakeholder: Okay. So like. Right now, I use Linkedin for like 2, 3 HAA day, like [I mostly used it in the morning, like, after I wake up, I'll just check to some post] or some job recommendation. Yeah.
+
+Interviewer: Alright, I believe. You have had an amazing experience doing your job hunt on Linkedin, and I wish you very well. Thank you for sharing your experience with us. Have a good day.
+
+Stakeholder: Thank you, you too.
+",Check posts in the morning after waking up,0,1,[23],N
+1,"Interviewer: Alright I get the pain point. But I was just wondering how how often do you use Linkedin on a daily basis?
+
+Stakeholder: Okay. So like. Right now, I use Linkedin for like 2, 3 HAA day, like [I mostly used it in the morning, like, after I wake up, I'll just check to some post or some job recommendation.] Yeah.
+
+Interviewer: Alright, I believe. You have had an amazing experience doing your job hunt on Linkedin, and I wish you very well. Thank you for sharing your experience with us. Have a good day.
+
+Stakeholder: Thank you, you too.
+",Check job recommendations in the morning after waking up,0,1,[23],N

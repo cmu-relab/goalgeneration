@@ -1,0 +1,9 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: Yeah.
+
+Stakeholder: Right answer for you.
+
+Interviewer: That's true. But [over the long term], if you were to switch to an app. would it be because it's making you save, for example 5 min every time, or it's helping you.
+
+Stakeholder: If I'm doing it long term I would definitely do it, [even if it's saving me just a couple of minutes, because they add up]. but if it's for a specific instance, I might not find it worth it.
+",Save a couple of minutes when completing a task over the long term,1,1,"[154, 155]",Y
