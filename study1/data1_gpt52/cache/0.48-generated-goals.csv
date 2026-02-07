@@ -1,0 +1,49 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: Github get something and put it. what about an extension.
+
+Stakeholder: Yeah. So for Vs code, the extension page, there is a like market some sort of marketplace page in Vs code. [You can just search for.] It's just like it's just it's just similar to like searching app in app store in your phone, or or search your app in Google store something like that in for Android, yeah, so yeah, so so basically for Vs code, [you just go to the marketplace and search the extension you want], and you can easily see like how to use it. It's document. And you can see the whole community discuss about it. You can see the ratings. You can see some. some, some fancy fancy walkthrough of it, and you just click, install, and that, and then the extension just perfectly integrated to your vehicle system. And that is basically how the extension works.
+
+Interviewer: Okay, we're a bit over time. I'll just ask 2 quick questions, and
+
+Stakeholder: Hi-ye!
+",Search for an extension,0,2,"[97, 97]",N
+1,"Interviewer: Github get something and put it. what about an extension.
+
+Stakeholder: Yeah. So for Vs code, the extension page, there is a like market some sort of marketplace page in Vs code. You can just search for. It's just like it's just it's just similar to like searching app in app store in your phone, or or search your app in Google store something like that in for Android, yeah, so yeah, so so basically for Vs code, you just go to the marketplace and search the extension you want, and [you can easily see like how to use it. It's document.] And you can see the whole community discuss about it. You can see the ratings. You can see some. some, some fancy fancy walkthrough of it, and you just click, install, and that, and then the extension just perfectly integrated to your vehicle system. And that is basically how the extension works.
+
+Interviewer: Okay, we're a bit over time. I'll just ask 2 quick questions, and
+
+Stakeholder: Hi-ye!
+",View documentation on how to use an extension,0,1,[97],N
+2,"Interviewer: Github get something and put it. what about an extension.
+
+Stakeholder: Yeah. So for Vs code, the extension page, there is a like market some sort of marketplace page in Vs code. You can just search for. It's just like it's just it's just similar to like searching app in app store in your phone, or or search your app in Google store something like that in for Android, yeah, so yeah, so so basically for Vs code, you just go to the marketplace and search the extension you want, and you can easily see like how to use it. It's document. [And you can see the whole community discuss about it.] You can see the ratings. You can see some. some, some fancy fancy walkthrough of it, and you just click, install, and that, and then the extension just perfectly integrated to your vehicle system. And that is basically how the extension works.
+
+Interviewer: Okay, we're a bit over time. I'll just ask 2 quick questions, and
+
+Stakeholder: Hi-ye!
+",View community discussions about an extension,0,1,[97],N
+3,"Interviewer: Github get something and put it. what about an extension.
+
+Stakeholder: Yeah. So for Vs code, the extension page, there is a like market some sort of marketplace page in Vs code. You can just search for. It's just like it's just it's just similar to like searching app in app store in your phone, or or search your app in Google store something like that in for Android, yeah, so yeah, so so basically for Vs code, you just go to the marketplace and search the extension you want, and you can easily see like how to use it. It's document. And you can see the whole community discuss about it. [You can see the ratings.] You can see some. some, some fancy fancy walkthrough of it, and you just click, install, and that, and then the extension just perfectly integrated to your vehicle system. And that is basically how the extension works.
+
+Interviewer: Okay, we're a bit over time. I'll just ask 2 quick questions, and
+
+Stakeholder: Hi-ye!
+",View ratings for an extension,0,1,[97],N
+4,"Interviewer: Github get something and put it. what about an extension.
+
+Stakeholder: Yeah. So for Vs code, the extension page, there is a like market some sort of marketplace page in Vs code. You can just search for. It's just like it's just it's just similar to like searching app in app store in your phone, or or search your app in Google store something like that in for Android, yeah, so yeah, so so basically for Vs code, you just go to the marketplace and search the extension you want, and you can easily see like how to use it. It's document. And you can see the whole community discuss about it. You can see the ratings. [You can see some. some, some fancy fancy walkthrough of it], and you just click, install, and that, and then the extension just perfectly integrated to your vehicle system. And that is basically how the extension works.
+
+Interviewer: Okay, we're a bit over time. I'll just ask 2 quick questions, and
+
+Stakeholder: Hi-ye!
+",View a walkthrough of an extension,0,1,[97],N
+5,"Interviewer: Github get something and put it. what about an extension.
+
+Stakeholder: Yeah. So for Vs code, the extension page, there is a like market some sort of marketplace page in Vs code. You can just search for. It's just like it's just it's just similar to like searching app in app store in your phone, or or search your app in Google store something like that in for Android, yeah, so yeah, so so basically for Vs code, you just go to the marketplace and search the extension you want, and you can easily see like how to use it. It's document. And you can see the whole community discuss about it. You can see the ratings. You can see some. some, some fancy fancy walkthrough of it, [and you just click, install], and that, and then the extension just perfectly integrated to your vehicle system. And that is basically how the extension works.
+
+Interviewer: Okay, we're a bit over time. I'll just ask 2 quick questions, and
+
+Stakeholder: Hi-ye!
+",Install an extension,0,1,[97],N

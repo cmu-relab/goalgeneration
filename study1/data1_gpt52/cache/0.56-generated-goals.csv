@@ -1,0 +1,33 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: Thank you so much for it.
+
+Stakeholder: Alright. Alright! Thank you so much. Yeah. [I hope I hope I introduce introduce being well.] I hope maybe you you will get interested about it and be happy. Yeah.
+
+Interviewer: It was very insightful. I might actually try out the editors.
+
+Stakeholder: Okay. Okay, alright, yeah. So I guess we can wrap up this interview. I guess.
+",Introduce themselves well,0,1,[113],N
+1,"Interviewer: Thank you so much for it.
+
+Stakeholder: Alright. Alright! Thank you so much. Yeah. I hope I hope I introduce introduce being well. [I hope maybe you you will get interested about it] and be happy. Yeah.
+
+Interviewer: It was very insightful. I might actually try out the editors.
+
+Stakeholder: Okay. Okay, alright, yeah. So I guess we can wrap up this interview. I guess.
+",Get the interviewer interested,0,1,[113],N
+2,"Interviewer: Thank you so much for it.
+
+Stakeholder: Alright. Alright! Thank you so much. Yeah. I hope I hope I introduce introduce being well. I hope maybe you you will get interested about it [and be happy.] Yeah.
+
+Interviewer: It was very insightful. I might actually try out the editors.
+
+Stakeholder: Okay. Okay, alright, yeah. So I guess we can wrap up this interview. I guess.
+",Make the interviewer happy,0,1,[113],N
+3,"Interviewer: Thank you so much for it.
+
+Stakeholder: Alright. Alright! Thank you so much. Yeah. I hope I hope I introduce introduce being well. I hope maybe you you will get interested about it and be happy. Yeah.
+
+Interviewer: It was very insightful. I might actually try out the editors.
+
+Stakeholder: Okay. Okay, alright, yeah. [So I guess we can wrap up this interview. I guess.]
+",Wrap up the interview,0,1,[115],N

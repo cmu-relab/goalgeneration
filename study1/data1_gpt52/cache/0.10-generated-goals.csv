@@ -1,0 +1,49 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: Wow! No, I believe that's very detailed. However, I would want to understand. In the entire journey. Were there any obstacles that you faced while using Linkedin.
+
+Stakeholder: a 1 obstacle that I face is with Job filtering. because Linkedin's filters are somewhat limited, and [I often wish there was a way to filter the jobs by specific skills or technologies] rather than just job titles or locations. Because sometimes I want to look for jobs that mention specific software or programming languages. But Linkedin doesn't provide these granular options. and another challenge is connecting with certain people who have strict privacy settings. For example, I'll send an connection request with the personalized message. But sometimes I don't get a response, or my request is ignored because Linkedin limits the direct connections with people outside the network.
+
+Interviewer: Alright I get the pain point. But I was just wondering how how often do you use Linkedin on a daily basis?
+
+Stakeholder: Okay. So like. Right now, I use Linkedin for like 2, 3 HAA day, like I mostly used it in the morning, like, after I wake up, I'll just check to some post or some job recommendation. Yeah.
+",Filter job listings by specific skills or technologies,0,1,[21],N
+1,"Interviewer: Wow! No, I believe that's very detailed. However, I would want to understand. In the entire journey. Were there any obstacles that you faced while using Linkedin.
+
+Stakeholder: a 1 obstacle that I face is with Job filtering. because Linkedin's filters are somewhat limited, and I often wish there was a way to filter the jobs by specific skills or technologies rather than just job titles or locations. Because [sometimes I want to look for jobs that mention specific software or programming languages]. But Linkedin doesn't provide these granular options. and another challenge is connecting with certain people who have strict privacy settings. For example, I'll send an connection request with the personalized message. But sometimes I don't get a response, or my request is ignored because Linkedin limits the direct connections with people outside the network.
+
+Interviewer: Alright I get the pain point. But I was just wondering how how often do you use Linkedin on a daily basis?
+
+Stakeholder: Okay. So like. Right now, I use Linkedin for like 2, 3 HAA day, like I mostly used it in the morning, like, after I wake up, I'll just check to some post or some job recommendation. Yeah.
+",Find job listings that mention specific software or programming languages,0,1,[21],N
+2,"Interviewer: Wow! No, I believe that's very detailed. However, I would want to understand. In the entire journey. Were there any obstacles that you faced while using Linkedin.
+
+Stakeholder: a 1 obstacle that I face is with Job filtering. because Linkedin's filters are somewhat limited, and I often wish there was a way to filter the jobs by specific skills or technologies rather than just job titles or locations. Because sometimes I want to look for jobs that mention specific software or programming languages. But Linkedin doesn't provide these granular options. and another challenge is connecting with certain people who have strict privacy settings. For example, [I'll send an connection request with the personalized message]. But sometimes I don't get a response, or my request is ignored because Linkedin limits the direct connections with people outside the network.
+
+Interviewer: Alright I get the pain point. But I was just wondering how how often do you use Linkedin on a daily basis?
+
+Stakeholder: Okay. So like. Right now, I use Linkedin for like 2, 3 HAA day, like I mostly used it in the morning, like, after I wake up, I'll just check to some post or some job recommendation. Yeah.
+",Send personalized connection requests to people,0,1,[21],N
+3,"Interviewer: Wow! No, I believe that's very detailed. However, I would want to understand. In the entire journey. Were there any obstacles that you faced while using Linkedin.
+
+Stakeholder: a 1 obstacle that I face is with Job filtering. because Linkedin's filters are somewhat limited, and I often wish there was a way to filter the jobs by specific skills or technologies rather than just job titles or locations. Because sometimes I want to look for jobs that mention specific software or programming languages. But Linkedin doesn't provide these granular options. and another challenge is connecting with certain people who have strict privacy settings. For example, I'll send an connection request with the personalized message. But [sometimes I don't get a response, or my request is ignored because Linkedin limits the direct connections with people outside the network].
+
+Interviewer: Alright I get the pain point. But I was just wondering how how often do you use Linkedin on a daily basis?
+
+Stakeholder: Okay. So like. Right now, I use Linkedin for like 2, 3 HAA day, like I mostly used it in the morning, like, after I wake up, I'll just check to some post or some job recommendation. Yeah.
+",Get responses to connection requests from people outside an existing network,0,1,[21],N
+4,"Interviewer: Wow! No, I believe that's very detailed. However, I would want to understand. In the entire journey. Were there any obstacles that you faced while using Linkedin.
+
+Stakeholder: a 1 obstacle that I face is with Job filtering. because Linkedin's filters are somewhat limited, and I often wish there was a way to filter the jobs by specific skills or technologies rather than just job titles or locations. Because sometimes I want to look for jobs that mention specific software or programming languages. But Linkedin doesn't provide these granular options. and another challenge is connecting with certain people who have strict privacy settings. For example, I'll send an connection request with the personalized message. But sometimes I don't get a response, or my request is ignored because Linkedin limits the direct connections with people outside the network.
+
+Interviewer: Alright I get the pain point. But I was just wondering how how often do you use Linkedin on a daily basis?
+
+Stakeholder: Okay. So like. Right now, I use Linkedin for like 2, 3 HAA day, like I mostly used it in the morning, like, after I wake up, [I'll just check to some post] or some job recommendation. Yeah.
+",Check posts,0,1,[23],N
+5,"Interviewer: Wow! No, I believe that's very detailed. However, I would want to understand. In the entire journey. Were there any obstacles that you faced while using Linkedin.
+
+Stakeholder: a 1 obstacle that I face is with Job filtering. because Linkedin's filters are somewhat limited, and I often wish there was a way to filter the jobs by specific skills or technologies rather than just job titles or locations. Because sometimes I want to look for jobs that mention specific software or programming languages. But Linkedin doesn't provide these granular options. and another challenge is connecting with certain people who have strict privacy settings. For example, I'll send an connection request with the personalized message. But sometimes I don't get a response, or my request is ignored because Linkedin limits the direct connections with people outside the network.
+
+Interviewer: Alright I get the pain point. But I was just wondering how how often do you use Linkedin on a daily basis?
+
+Stakeholder: Okay. So like. Right now, I use Linkedin for like 2, 3 HAA day, like I mostly used it in the morning, like, after I wake up, I'll just check to some post [or some job recommendation]. Yeah.
+",Check job recommendations,0,1,[23],N

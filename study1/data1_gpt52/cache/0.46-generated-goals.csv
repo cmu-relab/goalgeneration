@@ -1,0 +1,41 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: Okay? You mentioned a lot of things that are extensions. But what are extensions.
+
+Stakeholder: Okay, yeah. So the extension in Vs code is basically similar similar to the plugins in vim. And yeah, and and actually, the extension is just to give you additional features on the editor. Yeah. So yeah, like, for example, [Vs code got a marketplace. You can search many, many extension on it.] And there's a big community supporting it. And you can. You can. You can easily see how the Plugin how the extension works. It's document or discussion, something like that. You can. You can just click, install. and the the plug, the plug. The extension will be installed on your Vs code Vs code system. Yeah. And and for for vim you have to like, go to see many github page or or like integrate to see how it works on on different places, and and place place a piece of code in your vs. In your vim, config, file, and let it let it install it. So the process is basically different. But the extension things is makes no difference either. For Vs code or vein. It's just additional feature to the editor. Yeah.
+
+Interviewer: Okay? But so it is like plugins. But you're saying that plugins is a bit harder to install as compared to extensions. But how exactly do you install an extension? as compared to a plugin like you send a plugin, you will have to go.
+
+Stakeholder: Okay.
+",Search for extensions,0,1,[93],N
+1,"Interviewer: Okay? You mentioned a lot of things that are extensions. But what are extensions.
+
+Stakeholder: Okay, yeah. So the extension in Vs code is basically similar similar to the plugins in vim. And yeah, and and actually, the extension is just to give you additional features on the editor. Yeah. So yeah, like, for example, Vs code got a marketplace. You can search many, many extension on it. And there's a big community supporting it. And you can. You can. [You can easily see how the Plugin how the extension works. It's document or discussion, something like that.] You can. You can just click, install. and the the plug, the plug. The extension will be installed on your Vs code Vs code system. Yeah. And and for for vim you have to like, go to see many github page or or like integrate to see how it works on on different places, and and place place a piece of code in your vs. In your vim, config, file, and let it let it install it. So the process is basically different. But the extension things is makes no difference either. For Vs code or vein. It's just additional feature to the editor. Yeah.
+
+Interviewer: Okay? But so it is like plugins. But you're saying that plugins is a bit harder to install as compared to extensions. But how exactly do you install an extension? as compared to a plugin like you send a plugin, you will have to go.
+
+Stakeholder: Okay.
+",View documentation or discussions about how an extension works,0,1,[93],N
+2,"Interviewer: Okay? You mentioned a lot of things that are extensions. But what are extensions.
+
+Stakeholder: Okay, yeah. So the extension in Vs code is basically similar similar to the plugins in vim. And yeah, and and actually, the extension is just to give you additional features on the editor. Yeah. So yeah, like, for example, Vs code got a marketplace. You can search many, many extension on it. And there's a big community supporting it. And you can. You can. You can easily see how the Plugin how the extension works. It's document or discussion, something like that. You can. [You can just click, install. and the the plug, the plug. The extension will be installed on your Vs code Vs code system.] Yeah. And and for for vim you have to like, go to see many github page or or like integrate to see how it works on on different places, and and place place a piece of code in your vs. In your vim, config, file, and let it let it install it. So the process is basically different. But the extension things is makes no difference either. For Vs code or vein. It's just additional feature to the editor. Yeah.
+
+Interviewer: Okay? But so it is like plugins. But you're saying that plugins is a bit harder to install as compared to extensions. But how exactly do you install an extension? as compared to a plugin like you send a plugin, you will have to go.
+
+Stakeholder: Okay.
+",Install an extension,0,1,[93],N
+3,"Interviewer: Okay? You mentioned a lot of things that are extensions. But what are extensions.
+
+Stakeholder: Okay, yeah. So the extension in Vs code is basically similar similar to the plugins in vim. And yeah, and and actually, the extension is just to give you additional features on the editor. Yeah. So yeah, like, for example, Vs code got a marketplace. You can search many, many extension on it. And there's a big community supporting it. And you can. You can. You can easily see how the Plugin how the extension works. It's document or discussion, something like that. You can. You can just click, install. and the the plug, the plug. The extension will be installed on your Vs code Vs code system. Yeah. And and [for for vim you have to like, go to see many github page or or like integrate to see how it works on on different places], and and place place a piece of code in your vs. In your vim, config, file, and let it let it install it. So the process is basically different. But the extension things is makes no difference either. For Vs code or vein. It's just additional feature to the editor. Yeah.
+
+Interviewer: Okay? But so it is like plugins. But you're saying that plugins is a bit harder to install as compared to extensions. But how exactly do you install an extension? as compared to a plugin like you send a plugin, you will have to go.
+
+Stakeholder: Okay.
+",Find plugin information across multiple pages,0,1,[93],N
+4,"Interviewer: Okay? You mentioned a lot of things that are extensions. But what are extensions.
+
+Stakeholder: Okay, yeah. So the extension in Vs code is basically similar similar to the plugins in vim. And yeah, and and actually, the extension is just to give you additional features on the editor. Yeah. So yeah, like, for example, Vs code got a marketplace. You can search many, many extension on it. And there's a big community supporting it. And you can. You can. You can easily see how the Plugin how the extension works. It's document or discussion, something like that. You can. You can just click, install. and the the plug, the plug. The extension will be installed on your Vs code Vs code system. Yeah. And and for for vim you have to like, go to see many github page or or like integrate to see how it works on on different places, and and [place place a piece of code in your vs. In your vim, config, file, and let it let it install it.] So the process is basically different. But the extension things is makes no difference either. For Vs code or vein. It's just additional feature to the editor. Yeah.
+
+Interviewer: Okay? But so it is like plugins. But you're saying that plugins is a bit harder to install as compared to extensions. But how exactly do you install an extension? as compared to a plugin like you send a plugin, you will have to go.
+
+Stakeholder: Okay.
+",Add code to a configuration file to install a plugin,0,1,[93],N

@@ -1,0 +1,25 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: Okay. Yeah. thank you so much for so much info. Don't think I have any more questions. So.
+
+Stakeholder: All right.
+
+Interviewer: Thank you so much for it.
+
+Stakeholder: Alright. Alright! Thank you so much. Yeah. [I hope I hope I introduce introduce being well.] I hope maybe you you will get interested about it and be happy. Yeah.
+",Introduce something well,0,1,[113],N
+1,"Interviewer: Okay. Yeah. thank you so much for so much info. Don't think I have any more questions. So.
+
+Stakeholder: All right.
+
+Interviewer: Thank you so much for it.
+
+Stakeholder: Alright. Alright! Thank you so much. Yeah. I hope I hope I introduce introduce being well. [I hope maybe you you will get interested about it] and be happy. Yeah.
+",Get someone interested in something,0,1,[113],N
+2,"Interviewer: Okay. Yeah. thank you so much for so much info. Don't think I have any more questions. So.
+
+Stakeholder: All right.
+
+Interviewer: Thank you so much for it.
+
+Stakeholder: Alright. Alright! Thank you so much. Yeah. I hope I hope I introduce introduce being well. I hope maybe you you will get interested about it [and be happy.] Yeah.
+",Make someone feel happy,0,1,[113],N

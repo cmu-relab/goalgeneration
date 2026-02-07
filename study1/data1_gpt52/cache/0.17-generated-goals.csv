@@ -1,0 +1,65 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: Okay? But so plugins are something that you can add to it. Is that what you're saying.
+
+Stakeholder: Right, you can add. [At which plugins you want to install at the config file], and you can click, install. And you can also like customize the plugin, like, like, for example, the fuzzy. Yeah, I can customize like, which shortcut I want to activate it. And and like which, like, like, how how does it look like? And all? And also I can like customize like like scenes like user interface. I can. I can. I can make some different kind of like syntax, highlighting, or or like co auto suggestion, something like that. And all all of those things can can get customized just in the config file. Gosh.
+
+Interviewer: Okay. So what exactly is Fuzzy search here you mentioned it as a plugin. But
+
+Stakeholder: Right.
+",Choose which plugins to install,0,1,[35],N
+1,"Interviewer: Okay? But so plugins are something that you can add to it. Is that what you're saying.
+
+Stakeholder: Right, you can add. At which plugins you want to install at the config file, and [you can click, install]. And you can also like customize the plugin, like, like, for example, the fuzzy. Yeah, I can customize like, which shortcut I want to activate it. And and like which, like, like, how how does it look like? And all? And also I can like customize like like scenes like user interface. I can. I can. I can make some different kind of like syntax, highlighting, or or like co auto suggestion, something like that. And all all of those things can can get customized just in the config file. Gosh.
+
+Interviewer: Okay. So what exactly is Fuzzy search here you mentioned it as a plugin. But
+
+Stakeholder: Right.
+",Install selected plugins,0,1,[35],N
+2,"Interviewer: Okay? But so plugins are something that you can add to it. Is that what you're saying.
+
+Stakeholder: Right, you can add. At which plugins you want to install at the config file, and you can click, install. And you can also like customize the plugin, like, like, for example, the fuzzy. Yeah, [I can customize like, which shortcut I want to activate it]. And and like which, like, like, how how does it look like? And all? And also I can like customize like like scenes like user interface. I can. I can. I can make some different kind of like syntax, highlighting, or or like co auto suggestion, something like that. And all all of those things can can get customized just in the config file. Gosh.
+
+Interviewer: Okay. So what exactly is Fuzzy search here you mentioned it as a plugin. But
+
+Stakeholder: Right.
+",Customize which shortcut activates a plugin feature,0,1,[35],N
+3,"Interviewer: Okay? But so plugins are something that you can add to it. Is that what you're saying.
+
+Stakeholder: Right, you can add. At which plugins you want to install at the config file, and you can click, install. And you can also like customize the plugin, like, like, for example, the fuzzy. Yeah, I can customize like, which shortcut I want to activate it. And and like which, like, like, [how how does it look like]? And all? And also I can like customize like like scenes like user interface. I can. I can. I can make some different kind of like syntax, highlighting, or or like co auto suggestion, something like that. And all all of those things can can get customized just in the config file. Gosh.
+
+Interviewer: Okay. So what exactly is Fuzzy search here you mentioned it as a plugin. But
+
+Stakeholder: Right.
+",Customize how a plugin feature looks,0,1,[35],N
+4,"Interviewer: Okay? But so plugins are something that you can add to it. Is that what you're saying.
+
+Stakeholder: Right, you can add. At which plugins you want to install at the config file, and you can click, install. And you can also like customize the plugin, like, like, for example, the fuzzy. Yeah, I can customize like, which shortcut I want to activate it. And and like which, like, like, how how does it look like? And all? And also I can like [customize like like scenes like user interface]. I can. I can. I can make some different kind of like syntax, highlighting, or or like co auto suggestion, something like that. And all all of those things can can get customized just in the config file. Gosh.
+
+Interviewer: Okay. So what exactly is Fuzzy search here you mentioned it as a plugin. But
+
+Stakeholder: Right.
+",Customize the user interface appearance,0,1,[35],N
+5,"Interviewer: Okay? But so plugins are something that you can add to it. Is that what you're saying.
+
+Stakeholder: Right, you can add. At which plugins you want to install at the config file, and you can click, install. And you can also like customize the plugin, like, like, for example, the fuzzy. Yeah, I can customize like, which shortcut I want to activate it. And and like which, like, like, how how does it look like? And all? And also I can like customize like like scenes like user interface. I can. I can. I can [make some different kind of like syntax, highlighting], or or like co auto suggestion, something like that. And all all of those things can can get customized just in the config file. Gosh.
+
+Interviewer: Okay. So what exactly is Fuzzy search here you mentioned it as a plugin. But
+
+Stakeholder: Right.
+",Customize syntax highlighting,0,1,[35],N
+6,"Interviewer: Okay? But so plugins are something that you can add to it. Is that what you're saying.
+
+Stakeholder: Right, you can add. At which plugins you want to install at the config file, and you can click, install. And you can also like customize the plugin, like, like, for example, the fuzzy. Yeah, I can customize like, which shortcut I want to activate it. And and like which, like, like, how how does it look like? And all? And also I can like customize like like scenes like user interface. I can. I can. I can make some different kind of like syntax, highlighting, [or or like co auto suggestion, something like that]. And all all of those things can can get customized just in the config file. Gosh.
+
+Interviewer: Okay. So what exactly is Fuzzy search here you mentioned it as a plugin. But
+
+Stakeholder: Right.
+",Customize auto-suggestion behavior,0,1,[35],N
+7,"Interviewer: Okay? But so plugins are something that you can add to it. Is that what you're saying.
+
+Stakeholder: Right, you can add. [At which plugins you want to install at the config file], and you can click, install. And you can also like customize the plugin, like, like, for example, the fuzzy. Yeah, I can customize like, which shortcut I want to activate it. And and like which, like, like, how how does it look like? And all? And also I can like customize like like scenes like user interface. I can. I can. I can make some different kind of like syntax, highlighting, or or like co auto suggestion, something like that. And [all all of those things can can get customized just in the config file]. Gosh.
+
+Interviewer: Okay. So what exactly is Fuzzy search here you mentioned it as a plugin. But
+
+Stakeholder: Right.
+",Customize settings through a configuration file,0,2,"[35, 35]",N

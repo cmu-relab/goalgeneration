@@ -1,0 +1,33 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: Okay.
+
+Stakeholder: Yeah, and to maybe [be able to customize it more effectively], like Obviously, I don't know solutions. But maybe right now, with AI and Whatnot. [Maybe you could write descriptions of what you want to see and what you don't want to see], and maybe they can [take that also into consideration when recommending your feed instead of just like your watch history].
+
+Interviewer: Okay.
+
+Stakeholder: And also, I think sometimes people just want to refresh their watch history, but not like completely. but just for temporarily, because they just need a temporary refresher. So I think you can always go to incognito or log out and watch Youtube. But, any other like options would also work. Maybe, like. you know, pause this kind of videos for a while, and then show or show me new content.
+",Customize what content is recommended by describing what to see and what not to see,0,3,"[165, 165, 165]",N
+1,"Interviewer: Okay.
+
+Stakeholder: Yeah, and to maybe be able to customize it more effectively, like Obviously, I don't know solutions. But maybe right now, with AI and Whatnot. Maybe you could write descriptions of what you want to see and what you don't want to see, and maybe they can take that also into consideration when recommending your feed instead of just like your watch history.
+
+Interviewer: Okay.
+
+Stakeholder: And also, I think [sometimes people just want to refresh their watch history, but not like completely]. [but just for temporarily, because they just need a temporary refresher]. So I think you can always go to incognito or log out and watch Youtube. But, any other like options would also work. Maybe, like. you know, pause this kind of videos for a while, and then show or show me new content.
+",Temporarily refresh viewing history without fully clearing it,0,2,"[167, 167]",N
+2,"Interviewer: Okay.
+
+Stakeholder: Yeah, and to maybe be able to customize it more effectively, like Obviously, I don't know solutions. But maybe right now, with AI and Whatnot. Maybe you could write descriptions of what you want to see and what you don't want to see, and maybe they can take that also into consideration when recommending your feed instead of just like your watch history.
+
+Interviewer: Okay.
+
+Stakeholder: And also, I think sometimes people just want to refresh their watch history, but not like completely. but just for temporarily, because they just need a temporary refresher. So I think you can always go to incognito or log out and watch Youtube. But, any other like options would also work. Maybe, like. you know, [pause this kind of videos for a while], and then show or show me new content.
+",Temporarily pause recommendations of certain types of videos,0,1,[167],N
+3,"Interviewer: Okay.
+
+Stakeholder: Yeah, and to maybe be able to customize it more effectively, like Obviously, I don't know solutions. But maybe right now, with AI and Whatnot. Maybe you could write descriptions of what you want to see and what you don't want to see, and maybe they can take that also into consideration when recommending your feed instead of just like your watch history.
+
+Interviewer: Okay.
+
+Stakeholder: And also, I think sometimes people just want to refresh their watch history, but not like completely. but just for temporarily, because they just need a temporary refresher. So I think you can always go to incognito or log out and watch Youtube. But, any other like options would also work. Maybe, like. you know, [pause this kind of videos for a while, and then show or show me new content].
+",See new content after temporarily pausing certain types of videos,0,1,[167],N

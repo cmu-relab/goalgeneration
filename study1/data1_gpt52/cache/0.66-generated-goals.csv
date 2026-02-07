@@ -1,0 +1,25 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: Nice, good.
+
+Stakeholder: Okay. I think we don't have any other specific works to do. Now. we just need to like [review the transcripts] and submit our individual assignments in time.
+
+Interviewer: Yup, I think that's right. Yeah. Look at each other's goals and stuff that you're doing.
+
+Stakeholder: Thank you.
+",Review the transcripts,0,1,[133],N
+1,"Interviewer: Nice, good.
+
+Stakeholder: Okay. I think we don't have any other specific works to do. Now. we just need to like review the transcripts and [submit our individual assignments in time].
+
+Interviewer: Yup, I think that's right. Yeah. Look at each other's goals and stuff that you're doing.
+
+Stakeholder: Thank you.
+",Submit individual assignments on time,0,1,[133],N
+2,"Interviewer: Nice, good.
+
+Stakeholder: Okay. I think we don't have any other specific works to do. Now. we just need to like review the transcripts and submit our individual assignments in time.
+
+Interviewer: Yup, I think that's right. Yeah. [Look at each other's goals] and stuff that you're doing.
+
+Stakeholder: Thank you.
+",Look at each other's goals,1,0,[134],N

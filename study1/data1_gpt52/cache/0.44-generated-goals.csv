@@ -1,0 +1,81 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: Okay? So you said how you do it in vim, and then vim would make you mainly use the browser. Can you elaborate a bit more on how Vs code helps you do all this on that editor itself, like,
+
+Stakeholder: Right? Okay.
+
+Interviewer: More steps on like how exactly from the beginning to say. till the cloud, or to a deployment situation.
+
+Stakeholder: Yeah, okay, okay, yeah. So yeah, so so vs, code, actually it, it Vs code, just run lots of the pipeline. Just use every like, every different extensions, like for example, after after like I, I can use vs, [after I developing the code, I can push the code to Github just by the extension in Vs code]. And and after I push the code I can. I can also review others code just on Vs code. And there's another extension, and and also when I when I want to like merge code, and you, it will like Trigger, some sort of like, for example, Github actions and the Github actions will maybe deploy the code to to the server, and and that action can also be triggered by Vs code by the Github Action extension in Vs code. And after that, when the code is deployed to the server, I can. I can use I can use. Like, for example, some azure extension in Vs code, I can just access to my azure interface by by Vs code. I can see Whoa. There is some monetary things there's there's some stats, there's some health check. And all of those things can can be seen on the Vs code. And also for like data dogs for Kibana, something like that. And basically everything. There's a extension on the Vs code. Yeah.
+",Push code changes to a remote repository,0,1,[91],N
+1,"Interviewer: Okay? So you said how you do it in vim, and then vim would make you mainly use the browser. Can you elaborate a bit more on how Vs code helps you do all this on that editor itself, like,
+
+Stakeholder: Right? Okay.
+
+Interviewer: More steps on like how exactly from the beginning to say. till the cloud, or to a deployment situation.
+
+Stakeholder: Yeah, okay, okay, yeah. So yeah, so so vs, code, actually it, it Vs code, just run lots of the pipeline. Just use every like, every different extensions, like for example, after after like I, I can use vs, after I developing the code, I can push the code to Github just by the extension in Vs code. And and after I push the code I can. [I can also review others code just on Vs code]. And there's another extension, and and also when I when I want to like merge code, and you, it will like Trigger, some sort of like, for example, Github actions and the Github actions will maybe deploy the code to to the server, and and that action can also be triggered by Vs code by the Github Action extension in Vs code. And after that, when the code is deployed to the server, I can. I can use I can use. Like, for example, some azure extension in Vs code, I can just access to my azure interface by by Vs code. I can see Whoa. There is some monetary things there's there's some stats, there's some health check. And all of those things can can be seen on the Vs code. And also for like data dogs for Kibana, something like that. And basically everything. There's a extension on the Vs code. Yeah.
+",Review other people's code,0,1,[91],N
+2,"Interviewer: Okay? So you said how you do it in vim, and then vim would make you mainly use the browser. Can you elaborate a bit more on how Vs code helps you do all this on that editor itself, like,
+
+Stakeholder: Right? Okay.
+
+Interviewer: More steps on like how exactly from the beginning to say. till the cloud, or to a deployment situation.
+
+Stakeholder: Yeah, okay, okay, yeah. So yeah, so so vs, code, actually it, it Vs code, just run lots of the pipeline. Just use every like, every different extensions, like for example, after after like I, I can use vs, after I developing the code, I can push the code to Github just by the extension in Vs code. And and after I push the code I can. I can also review others code just on Vs code. And there's another extension, and and also [when I when I want to like merge code], and you, it will like Trigger, some sort of like, for example, Github actions and the Github actions will maybe deploy the code to to the server, and and that action can also be triggered by Vs code by the Github Action extension in Vs code. And after that, when the code is deployed to the server, I can. I can use I can use. Like, for example, some azure extension in Vs code, I can just access to my azure interface by by Vs code. I can see Whoa. There is some monetary things there's there's some stats, there's some health check. And all of those things can can be seen on the Vs code. And also for like data dogs for Kibana, something like that. And basically everything. There's a extension on the Vs code. Yeah.
+",Merge code changes,0,1,[91],N
+3,"Interviewer: Okay? So you said how you do it in vim, and then vim would make you mainly use the browser. Can you elaborate a bit more on how Vs code helps you do all this on that editor itself, like,
+
+Stakeholder: Right? Okay.
+
+Interviewer: More steps on like how exactly from the beginning to say. till the cloud, or to a deployment situation.
+
+Stakeholder: Yeah, okay, okay, yeah. So yeah, so so vs, code, actually it, it Vs code, just run lots of the pipeline. Just use every like, every different extensions, like for example, after after like I, I can use vs, after I developing the code, I can push the code to Github just by the extension in Vs code. And and after I push the code I can. I can also review others code just on Vs code. And there's another extension, and and also [when I when I want to like merge code, and you, it will like Trigger, some sort of like, for example, Github actions] and the Github actions will maybe deploy the code to to the server, and and that action can also be triggered by Vs code by the Github Action extension in Vs code. And after that, when the code is deployed to the server, I can. I can use I can use. Like, for example, some azure extension in Vs code, I can just access to my azure interface by by Vs code. I can see Whoa. There is some monetary things there's there's some stats, there's some health check. And all of those things can can be seen on the Vs code. And also for like data dogs for Kibana, something like that. And basically everything. There's a extension on the Vs code. Yeah.
+",Trigger an automated workflow when code is merged,0,1,[91],N
+4,"Interviewer: Okay? So you said how you do it in vim, and then vim would make you mainly use the browser. Can you elaborate a bit more on how Vs code helps you do all this on that editor itself, like,
+
+Stakeholder: Right? Okay.
+
+Interviewer: More steps on like how exactly from the beginning to say. till the cloud, or to a deployment situation.
+
+Stakeholder: Yeah, okay, okay, yeah. So yeah, so so vs, code, actually it, it Vs code, just run lots of the pipeline. Just use every like, every different extensions, like for example, after after like I, I can use vs, after I developing the code, I can push the code to Github just by the extension in Vs code. And and after I push the code I can. I can also review others code just on Vs code. And there's another extension, and and also when I when I want to like merge code, and you, it will like Trigger, some sort of like, for example, Github actions and [the Github actions will maybe deploy the code to to the server], and and that action can also be triggered by Vs code by the Github Action extension in Vs code. And after that, [when the code is deployed to the server], I can. I can use I can use. Like, for example, some azure extension in Vs code, I can just access to my azure interface by by Vs code. I can see Whoa. There is some monetary things there's there's some stats, there's some health check. And all of those things can can be seen on the Vs code. And also for like data dogs for Kibana, something like that. And basically everything. There's a extension on the Vs code. Yeah.
+",Deploy code to a server,0,2,"[91, 91]",N
+5,"Interviewer: Okay? So you said how you do it in vim, and then vim would make you mainly use the browser. Can you elaborate a bit more on how Vs code helps you do all this on that editor itself, like,
+
+Stakeholder: Right? Okay.
+
+Interviewer: More steps on like how exactly from the beginning to say. till the cloud, or to a deployment situation.
+
+Stakeholder: Yeah, okay, okay, yeah. So yeah, so so vs, code, actually it, it Vs code, just run lots of the pipeline. Just use every like, every different extensions, like for example, after after like I, I can use vs, after I developing the code, I can push the code to Github just by the extension in Vs code. And and after I push the code I can. I can also review others code just on Vs code. And there's another extension, and and also when I when I want to like merge code, and you, it will like Trigger, some sort of like, for example, Github actions and the Github actions will maybe deploy the code to to the server, and and that action can also be triggered by Vs code by the Github Action extension in Vs code. And after that, when the code is deployed to the server, I can. I can use I can use. Like, for example, [some azure extension in Vs code, I can just access to my azure interface by by Vs code]. I can see Whoa. There is some monetary things there's there's some stats, there's some health check. And all of those things can can be seen on the Vs code. And also for like data dogs for Kibana, something like that. And basically everything. There's a extension on the Vs code. Yeah.
+",Access a cloud management interface,0,1,[91],N
+6,"Interviewer: Okay? So you said how you do it in vim, and then vim would make you mainly use the browser. Can you elaborate a bit more on how Vs code helps you do all this on that editor itself, like,
+
+Stakeholder: Right? Okay.
+
+Interviewer: More steps on like how exactly from the beginning to say. till the cloud, or to a deployment situation.
+
+Stakeholder: Yeah, okay, okay, yeah. So yeah, so so vs, code, actually it, it Vs code, just run lots of the pipeline. Just use every like, every different extensions, like for example, after after like I, I can use vs, after I developing the code, I can push the code to Github just by the extension in Vs code. And and after I push the code I can. I can also review others code just on Vs code. And there's another extension, and and also when I when I want to like merge code, and you, it will like Trigger, some sort of like, for example, Github actions and the Github actions will maybe deploy the code to to the server, and and that action can also be triggered by Vs code by the Github Action extension in Vs code. And after that, when the code is deployed to the server, I can. I can use I can use. Like, for example, some azure extension in Vs code, I can just access to my azure interface by by Vs code. [I can see Whoa. There is some monetary things] there's there's some stats, there's some health check. And all of those things can can be seen on the Vs code. And also for like data dogs for Kibana, something like that. And basically everything. There's a extension on the Vs code. Yeah.
+",View cost-related information,0,1,[91],N
+7,"Interviewer: Okay? So you said how you do it in vim, and then vim would make you mainly use the browser. Can you elaborate a bit more on how Vs code helps you do all this on that editor itself, like,
+
+Stakeholder: Right? Okay.
+
+Interviewer: More steps on like how exactly from the beginning to say. till the cloud, or to a deployment situation.
+
+Stakeholder: Yeah, okay, okay, yeah. So yeah, so so vs, code, actually it, it Vs code, just run lots of the pipeline. Just use every like, every different extensions, like for example, after after like I, I can use vs, after I developing the code, I can push the code to Github just by the extension in Vs code. And and after I push the code I can. I can also review others code just on Vs code. And there's another extension, and and also when I when I want to like merge code, and you, it will like Trigger, some sort of like, for example, Github actions and the Github actions will maybe deploy the code to to the server, and and that action can also be triggered by Vs code by the Github Action extension in Vs code. And after that, when the code is deployed to the server, I can. I can use I can use. Like, for example, some azure extension in Vs code, I can just access to my azure interface by by Vs code. I can see Whoa. There is some monetary things [there's there's some stats], there's some health check. And all of those things can can be seen on the Vs code. And also for like data dogs for Kibana, something like that. And basically everything. There's a extension on the Vs code. Yeah.
+",View system statistics,0,1,[91],N
+8,"Interviewer: Okay? So you said how you do it in vim, and then vim would make you mainly use the browser. Can you elaborate a bit more on how Vs code helps you do all this on that editor itself, like,
+
+Stakeholder: Right? Okay.
+
+Interviewer: More steps on like how exactly from the beginning to say. till the cloud, or to a deployment situation.
+
+Stakeholder: Yeah, okay, okay, yeah. So yeah, so so vs, code, actually it, it Vs code, just run lots of the pipeline. Just use every like, every different extensions, like for example, after after like I, I can use vs, after I developing the code, I can push the code to Github just by the extension in Vs code. And and after I push the code I can. I can also review others code just on Vs code. And there's another extension, and and also when I when I want to like merge code, and you, it will like Trigger, some sort of like, for example, Github actions and the Github actions will maybe deploy the code to to the server, and and that action can also be triggered by Vs code by the Github Action extension in Vs code. And after that, when the code is deployed to the server, I can. I can use I can use. Like, for example, some azure extension in Vs code, I can just access to my azure interface by by Vs code. I can see Whoa. There is some monetary things there's there's some stats, [there's some health check]. And all of those things can can be seen on the Vs code. And also for like data dogs for Kibana, something like that. And basically everything. There's a extension on the Vs code. Yeah.
+",Perform a health check,0,1,[91],N
+9,"Interviewer: Okay? So you said how you do it in vim, and then vim would make you mainly use the browser. Can you elaborate a bit more on how Vs code helps you do all this on that editor itself, like,
+
+Stakeholder: Right? Okay.
+
+Interviewer: More steps on like how exactly from the beginning to say. till the cloud, or to a deployment situation.
+
+Stakeholder: Yeah, okay, okay, yeah. So yeah, so so vs, code, actually it, it Vs code, just run lots of the pipeline. Just use every like, every different extensions, like for example, after after like I, I can use vs, after I developing the code, I can push the code to Github just by the extension in Vs code. And and after I push the code I can. I can also review others code just on Vs code. And there's another extension, and and also when I when I want to like merge code, and you, it will like Trigger, some sort of like, for example, Github actions and the Github actions will maybe deploy the code to to the server, and and that action can also be triggered by Vs code by the Github Action extension in Vs code. And after that, when the code is deployed to the server, I can. I can use I can use. Like, for example, some azure extension in Vs code, I can just access to my azure interface by by Vs code. I can see Whoa. There is some monetary things there's there's some stats, there's some health check. And all of those things can can be seen on the Vs code. [And also for like data dogs for Kibana, something like that]. And basically everything. There's a extension on the Vs code. Yeah.
+",View monitoring and logging information,0,1,[91],N

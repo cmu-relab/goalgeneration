@@ -1,0 +1,49 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: From each of these that you would want to take and put. And what what do you not want to take.
+
+Stakeholder: Okay? Well, well, that's that's a that's a big question. So actually, actually, nowadays, I think, Vs code actually cover every requirements for a developer who needs to like coding or developing, develop any projects cause because Vs code got every strengthness of vim. And [when it comes to like like server scenario like. If I if I need to like modify code in a server, I can.] I can still use me because I know how to use Vin, and I can make Vs code just looks like my vin. So I can use like, just just identical to my vin shortcut to develop in, to develop in Vs code and actually, Vs code nowadays, just leverage both the strengthless of being and and a user interface. Yeah. And and the interface is pretty good right now. Yeah, so yeah, so basically, if you used to ask my opinion, I think Vs code is a perfect perfect tool for developers right now. Yeah. But I still, I still enjoy coding in terminal. Actually, I still think it's cool. Yeah. So yeah, so for me, I don't think we need to like like, stick to a single tool for a developer. I think just it just depends. Yeah, just just like system design or coding you, you just you just you just need to like, like, evaluate the situation you got, and just choose the best plan for you. That is what I thought. Yeah.
+
+Interviewer: Okay, can you? Elaborate a little more on what? Exactly you would consider as like, everything that a developer needs that you said for Vs code.
+
+Stakeholder: Okay.
+",Modify code on a server,0,1,[75],N
+1,"Interviewer: From each of these that you would want to take and put. And what what do you not want to take.
+
+Stakeholder: Okay? Well, well, that's that's a that's a big question. So actually, actually, nowadays, I think, Vs code actually cover every requirements for a developer who needs to like coding or developing, develop any projects cause because Vs code got every strengthness of vim. And when it comes to like like server scenario like. If I if I need to like modify code in a server, I can. I can still use me because I know how to use Vin, and [I can make Vs code just looks like my vin.] [So I can use like, just just identical to my vin shortcut to develop in, to develop in Vs code] and actually, Vs code nowadays, just leverage both the strengthless of being and and a user interface. Yeah. And and the interface is pretty good right now. Yeah, so yeah, so basically, if you used to ask my opinion, I think Vs code is a perfect perfect tool for developers right now. Yeah. But I still, I still enjoy coding in terminal. Actually, I still think it's cool. Yeah. So yeah, so for me, I don't think we need to like like, stick to a single tool for a developer. I think just it just depends. Yeah, just just like system design or coding you, you just you just you just need to like, like, evaluate the situation you got, and just choose the best plan for you. That is what I thought. Yeah.
+
+Interviewer: Okay, can you? Elaborate a little more on what? Exactly you would consider as like, everything that a developer needs that you said for Vs code.
+
+Stakeholder: Okay.
+",Use familiar keyboard shortcuts while developing,0,2,"[75, 75]",N
+2,"Interviewer: From each of these that you would want to take and put. And what what do you not want to take.
+
+Stakeholder: Okay? Well, well, that's that's a that's a big question. So actually, actually, nowadays, I think, Vs code actually cover every requirements for a developer who needs to like coding or developing, develop any projects cause because Vs code got every strengthness of vim. And when it comes to like like server scenario like. If I if I need to like modify code in a server, I can. I can still use me because I know how to use Vin, and I can make Vs code just looks like my vin. So I can use like, just just identical to my vin shortcut to develop in, to develop in Vs code and actually, [Vs code nowadays, just leverage both the strengthless of being and and a user interface.] Yeah. [And and the interface is pretty good right now.] Yeah, so yeah, so basically, if you used to ask my opinion, I think Vs code is a perfect perfect tool for developers right now. Yeah. But I still, I still enjoy coding in terminal. Actually, I still think it's cool. Yeah. So yeah, so for me, I don't think we need to like like, stick to a single tool for a developer. I think just it just depends. Yeah, just just like system design or coding you, you just you just you just need to like, like, evaluate the situation you got, and just choose the best plan for you. That is what I thought. Yeah.
+
+Interviewer: Okay, can you? Elaborate a little more on what? Exactly you would consider as like, everything that a developer needs that you said for Vs code.
+
+Stakeholder: Okay.
+",Have a user interface while developing,0,2,"[75, 75]",N
+3,"Interviewer: From each of these that you would want to take and put. And what what do you not want to take.
+
+Stakeholder: Okay? Well, well, that's that's a that's a big question. So actually, actually, nowadays, I think, Vs code actually cover every requirements for a developer who needs to like coding or developing, develop any projects cause because Vs code got every strengthness of vim. And when it comes to like like server scenario like. If I if I need to like modify code in a server, I can. I can still use me because I know how to use Vin, and I can make Vs code just looks like my vin. So I can use like, just just identical to my vin shortcut to develop in, to develop in Vs code and actually, Vs code nowadays, just leverage both the strengthless of being and and a user interface. Yeah. And and the interface is pretty good right now. Yeah, so yeah, so basically, if you used to ask my opinion, I think Vs code is a perfect perfect tool for developers right now. Yeah. [But I still, I still enjoy coding in terminal.] Actually, I still think it's cool. Yeah. So yeah, so for me, I don't think we need to like like, stick to a single tool for a developer. I think just it just depends. Yeah, just just like system design or coding you, you just you just you just need to like, like, evaluate the situation you got, and just choose the best plan for you. That is what I thought. Yeah.
+
+Interviewer: Okay, can you? Elaborate a little more on what? Exactly you would consider as like, everything that a developer needs that you said for Vs code.
+
+Stakeholder: Okay.
+",Code in a terminal,0,1,[75],N
+4,"Interviewer: From each of these that you would want to take and put. And what what do you not want to take.
+
+Stakeholder: Okay? Well, well, that's that's a that's a big question. So actually, actually, nowadays, I think, Vs code actually cover every requirements for a developer who needs to like coding or developing, develop any projects cause because Vs code got every strengthness of vim. And when it comes to like like server scenario like. If I if I need to like modify code in a server, I can. I can still use me because I know how to use Vin, and I can make Vs code just looks like my vin. So I can use like, just just identical to my vin shortcut to develop in, to develop in Vs code and actually, Vs code nowadays, just leverage both the strengthless of being and and a user interface. Yeah. And and the interface is pretty good right now. Yeah, so yeah, so basically, if you used to ask my opinion, I think Vs code is a perfect perfect tool for developers right now. Yeah. But I still, I still enjoy coding in terminal. Actually, I still think it's cool. Yeah. So yeah, so for me, I don't think we need to like like, stick to a single tool for a developer. [I think just it just depends.] Yeah, just just like system design or coding you, [you just you just you just need to like, like, evaluate the situation you got], and just choose the best plan for you. That is what I thought. Yeah.
+
+Interviewer: Okay, can you? Elaborate a little more on what? Exactly you would consider as like, everything that a developer needs that you said for Vs code.
+
+Stakeholder: Okay.
+",Evaluate the situation before choosing a development approach,0,2,"[75, 75]",N
+5,"Interviewer: From each of these that you would want to take and put. And what what do you not want to take.
+
+Stakeholder: Okay? Well, well, that's that's a that's a big question. So actually, actually, nowadays, I think, Vs code actually cover every requirements for a developer who needs to like coding or developing, develop any projects cause because Vs code got every strengthness of vim. And when it comes to like like server scenario like. If I if I need to like modify code in a server, I can. I can still use me because I know how to use Vin, and I can make Vs code just looks like my vin. So I can use like, just just identical to my vin shortcut to develop in, to develop in Vs code and actually, Vs code nowadays, just leverage both the strengthless of being and and a user interface. Yeah. And and the interface is pretty good right now. Yeah, so yeah, so basically, if you used to ask my opinion, I think Vs code is a perfect perfect tool for developers right now. Yeah. But I still, I still enjoy coding in terminal. Actually, I still think it's cool. Yeah. So yeah, so for me, I don't think we need to like like, stick to a single tool for a developer. I think just it just depends. Yeah, just just like system design or coding you, you just you just you just need to like, like, evaluate the situation you got, [and just choose the best plan for you.] That is what I thought. Yeah.
+
+Interviewer: Okay, can you? Elaborate a little more on what? Exactly you would consider as like, everything that a developer needs that you said for Vs code.
+
+Stakeholder: Okay.
+",Choose the best plan for the current situation,0,1,[75],N

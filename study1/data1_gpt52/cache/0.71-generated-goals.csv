@@ -1,0 +1,9 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: When you talk about familiarity with the application. do you mean in terms of just the ui. how it looks, or in terms of the filters, or in in what sense.
+
+Stakeholder: Yes, it's it's I would say it's in terms of the ui. I know what to do. Since I've done that research in many ways. I'm familiar with all the nooks and crannies of the website. So [if I have to achieve X motive, and it requires me to go through this specific set of steps. I'm generally aware of how to do that] in a quick manner, because the website doesn't change very often the interface remains the same. So I know what's the path I want to take, and how I'm able to do that pretty quickly. That's that's what I mean by familiarity.
+
+Interviewer: So, for example, if you wanted to carry out the same set of actions on, I mean, if you wanted to reach the same goal on a different aggregator. You're saying that the set of actions you you'd have to perform are different, and that takes longer to navigate.
+
+Stakeholder: The user interface is different. It would take me definitely, slightly longer. Obviously, I mean, since we use different websites on a daily basis. It's not that hard to adapt to a different user interface. Because you're not. I'm not intimately familiar with. Let's say where Kayak puts this exact filter that I want to apply, or this specific option that applies in this situation. So it might take me, let's say, 30 seconds or a minute more than it would take me at Skyscanner. [because at Skyscanner I've like learned all of the options since I've used them]. Naturally, you will start to have more of a familiarity. So it's like a you're quickly able to subconsciously grasp the option that you need and follow that path instead of actively having to search for it.
+",Learn the steps needed to achieve a desired outcome,0,2,"[143, 145]",N

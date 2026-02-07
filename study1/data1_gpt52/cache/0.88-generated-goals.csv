@@ -1,0 +1,17 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: Okay, okay? So some of the competing platforms got it. That makes sense. So on a scale of one to 10, how would you rate, your overall user experience with Youtube.
+
+Stakeholder: Yeah, I would say it's 9. I mean, I'm I'm pretty satisfied.
+
+Interviewer: You're pretty satisfied. And what would you ideally want that rating to change to down the line? Are you happy with it being a 9. Would you really want it to be a 10 and.
+
+Stakeholder: [I kind of don't want them to change too many things], because. like like I said, it's pretty close to how useful it is to me. and I think changing things might just make it worse.
+",Avoid changing too many things,0,1,[179],N
+1,"Interviewer: Okay, okay? So some of the competing platforms got it. That makes sense. So on a scale of one to 10, how would you rate, your overall user experience with Youtube.
+
+Stakeholder: Yeah, I would say it's 9. I mean, I'm I'm pretty satisfied.
+
+Interviewer: You're pretty satisfied. And what would you ideally want that rating to change to down the line? Are you happy with it being a 9. Would you really want it to be a 10 and.
+
+Stakeholder: I kind of don't want them to change too many things, because. like like I said, it's pretty close to how useful it is to me. [and I think changing things might just make it worse].
+",Prevent changes from making the experience worse,0,1,[179],N

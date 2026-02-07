@@ -1,0 +1,550 @@
+NEGATIVE,Minimize the time spent navigating between different online portals to apply for jobs,Streamline the job application workflow end-to-end (from interest to submission and status tracking)
+NEGATIVE,Use an editor that is supported by an active community,Bind the open-file action to a keyboard shortcut
+NEGATIVE,Ask healthcare professionals health-related questions,Save a partially created post as a draft to finish later
+POSITIVE,Interact with posts in a feed,Stay updated on trends
+NEGATIVE,Display the number of available units,Discover places using a digital platform
+POSITIVE,"Request that other users review, add, or like a playlist",Create a playlist for other users to view
+POSITIVE,Operate an end-to-end DevOps workflow from a unified interface,Perform a system health check
+NEGATIVE,"Support continuous, low-effort background listening",Identify the best available version of a song
+POSITIVE,Provide safe and trustworthy content experiences,Enforce controls on all user uploads.
+POSITIVE,Provide product discovery and decision support,Use a shopping website to find grocery items quickly without unnecessary browsing
+SYMMETRIC,Monitor available opportunities and information in the job market and professional community,Search for job opportunities
+NEGATIVE,Retrieve a referenced question.,Estimate a recommended time to solve each question.
+POSITIVE,Consume media flexibly across contexts and constraints,Access entertainment content while exercising at the gym
+POSITIVE,Support content creation workflows (language and multimedia creation),Create multimedia content.
+NEGATIVE,Support day-to-day weather checking and planning.,View significant weather events occurring in a specified location
+POSITIVE,Accelerate learning,Provide guidance on what to do next after getting started
+POSITIVE,Manage grocery lists and recurring purchasing,Restock regularly purchased grocery items on a monthly basis.
+POSITIVE,Avoid logical errors in explanations,Verify the correctness of explanations and terminology using authoritative reference materials
+NEGATIVE,Create a shopping list by reusing and customizing a template for different occasions,View item quantity
+POSITIVE,Browse top news headlines regularly,Read only headlines when time is limited
+NEGATIVE,Manage debit card and overdraft features,Categorize spending into expense categories
+POSITIVE,Plan and choose an appropriate transportation option for the trip,"Decide whether to take a ride based on travel time, price, driving preference or ability, and available alternative transportation options"
+NEGATIVE,Add a title to a post,Enable live chat within conversation communities
+NEGATIVE,Identify alternative contact information when initial outreach receives no response,Select a neighborhood or area to search for a home or apartment in
+NEGATIVE,Provide payment details to complete the subscription purchase,Ensure safe and compliant content access and distribution
+POSITIVE,"Enable personalized, efficient news consumption",Adjust displayed content over time based on a user’s past choices and behavior
+POSITIVE,"Discover items and sellers using search, browsing, local exploration, and social inspiration",Browse through many images to see what is available and discover products to choose
+NEGATIVE,View content statistics such as view counts and creation dates,Support creators in producing and publishing video content
+NEGATIVE,Prevent personal data from being exposed to other people outside the platform,Keep job applications and targeted roles private from others
+POSITIVE,Create a long-term personal financial plan,Rebalance investment allocations on a periodic schedule
+POSITIVE,Shop for groceries efficiently across online and in-store channels,Enable users to add forgotten items to an existing grocery order without visiting the physical store
+NEGATIVE,Set aside a dedicated block of time to practice questions,"Access clearly explained solutions to coding problems with walkthroughs, examples, and algorithm details"
+POSITIVE,"Provide an efficient, personalized news reading workflow",Resume viewing a list from the previous position without restarting at the top
+POSITIVE,Learn about investing and trading,Learn about algorithms used by companies and active traders to generate profits
+NEGATIVE,Load a new batch of news items after items are marked read and indicate loading status,Enable efficient triage and later review of news items
+SYMMETRIC;,Guide a user through the steps shown on their screen to achieve a desired outcome efficiently,Provide guidance that helps someone understand a topic without a steep learning curve
+NEGATIVE,Display a visual history showing where branches were created and merged,Visually map the change history of a version-controlled repository to provide context.
+POSITIVE,Get assistance reading emails,Identify and highlight important messages and critical instructions or disclaimers within messages
+POSITIVE,Accelerate research workflows,Run many travel searches in parallel across combinations of criteria.
+POSITIVE,Create and manage categories for messages and notifications,Communicate with others using shared message categories
+NEGATIVE,Filter search results to show long-form content longer than 20 minutes,Search for short videos using remembered details
+NEGATIVE,Prevent skills from deteriorating over time through regular practice,"Support focused, personalized practice planning."
+NEGATIVE,Improve research accuracy,Adjust departure and arrival times to fit a desired time window
+POSITIVE,Manage and maintain a personal professional profile,Save updates made to a personal profile
+SYMMETRIC,"Edit text-based files on servers using a basic, non-graphical text editor.",Open and use a text editor through a command-line interface on a remote server or in terminal-only environments
+POSITIVE,Discover and shortlist suitable referral candidates.,Enable searching across as many potential connections as possible.
+POSITIVE,Trade cryptocurrencies using an easy-to-use exchange interface,Execute trades quickly and with minimal effort
+NEGATIVE,"Discover and select content efficiently (search, browse, recommendations)",Ensure the subscription provides good value for its cost
+NEGATIVE,Attach documents to questions to provide additional context,"Provide efficient, always-available conversational support"
+SYMMETRIC,Receive job notification emails that are concise and include all necessary job details,Apply to a job directly from a job notification email
+POSITIVE,Allow viewers to choose videos to watch from available options,View available viewing options for a video through conversation or discussion
+POSITIVE,"Support accessible, usable playback experience",Mute or unmute video audio
+POSITIVE,Receive scheduled weather update notifications multiple times per day.,Receive weekly weather updates.
+NEGATIVE,Continue to see breaking news alerts for selected topics or events even when other related content is hidden.,Receive timely news updates about events within a couple of days of when they happen.
+NEGATIVE,Communicate with a bank representative through a web-based chat interface,Lock a payment card
+POSITIVE,Evaluate and shortlist housing options effectively,Collect multiple options on a single page for review
+POSITIVE,Search for job postings and filter results by region,Filter search results by region
+NEGATIVE,Determine the source of the weather data.,View significant weather events occurring worldwide
+NEGATIVE,Customize an editing environment to match personal preferences using add-ons and interface settings,Improve work efficiency
+NEGATIVE,Manage a personal watchlist,Remove media titles from a watch-later list
+POSITIVE,Manage money transfers end-to-end,"View transfer activity, including scheduled transfers"
+POSITIVE,"Manage a unified news feed lifecycle (load, filter, deduplicate, state, and stable navigation)",Mark items as read after viewing
+POSITIVE,Decide on a home within one week to one month,Efficiently search and narrow housing options
+NEGATIVE,Save money for retirement,Support guided learning and financial education for users
+NEGATIVE,Display property photos and enforce formatting and quality rules for them,Zoom in on a user-selected location
+POSITIVE,Provide decision support and risk management for investing,Rebalance investment allocations on a periodic schedule
+POSITIVE,Support an accessible and usable video playback experience,"Display video playback timing information, including current time and total duration"
+NEGATIVE,Help users create grocery lists without forgetting items,View item quantity
+NEGATIVE,Provide actionable severe-weather awareness and response support.,"Retrieve the temperature for a specified time period (current, next day, or a particular hour)."
+NEGATIVE,Take legal action when personal data is misused or leaked,Understand and manage how personal data is used and protected
+NEGATIVE,Allow users to add custom test cases to a coding problem.,Write solutions to coding problems
+SYMMETRIC,Decide how much time to spend on a course based on grade information,View grades
+POSITIVE,Complete provider outreach end-to-end with guidance and fallback handling,"Research the person, organization, or place when outreach attempts receive no response"
+POSITIVE,"Input travel search parameters such as origins, destinations, dates, traveler count, class, and preferences.",Specify the number of adult travelers
+POSITIVE,Manage a personalized and controllable content feed,Allow users to hide an article from the feed
+POSITIVE,Match itinerary times to personal circumstances,Determine whether travel times align with the schedule of a person being met
+SYMMETRIC;,"Access clearly explained solutions to coding problems with walkthroughs, examples, and algorithm details",Discuss coding problems with other people
+POSITIVE,"Complete an end-to-end purchase workflow (discover items, choose seller, order, pay, and receive items)",Contact a seller to inquire about or purchase an item
+POSITIVE,Send questions and receive answers quickly,Attach documents to questions to provide additional context
+SYMMETRIC;,"Listen to audio content such as music, podcasts, streams, or audiobooks",Play media in the background
+NEGATIVE,Create a comment on a post,Create and share community content and experiences
+NEGATIVE,Enable multi-modal interaction and contextual input,Complete language-related tasks
+NEGATIVE,Participate in a follow-up interview to provide additional details.,Determine when an article was originally published and when it was received
+NEGATIVE,"Search flights using flexible origin and destination areas, including nearby airports.",Take vacation flights
+NEGATIVE,Analyze user comments to predict whether a video will improve over time,Watch shorter content that fits a limited attention span
+POSITIVE,Provide predefined test cases for each coding problem.,Execute code against test cases and present the results.
+NEGATIVE,Watch videos in any order,Watch a diverse range of content
+POSITIVE,Enable community participation through group channels,Add specified functionality to the active text channel
+NEGATIVE,Track comment threads,Enable community interaction and communication
+NEGATIVE,Watch a diverse range of content,Decide how much time to spend on a course based on grade information
+POSITIVE,Browse a list of posts to locate specific posts,Filter posts to narrow results and retain useful posts
+POSITIVE,Select a store or location filter before shopping or adding items,Group items into separate checkout lists based on where they are available and allow users to review those groups
+NEGATIVE,"Receive personalized, relevant, and timely notifications about job opportunities based on preferred domains and skills",Prevent unsolicited job notifications
+NEGATIVE,Conduct effective outreach and relationship-building with potential referrers.,Send a connection request to a selected person with an introductory message stating the purpose and asking for a referral
+NEGATIVE,Enable portable and reproducible developer environment across devices,Search for extensions
+POSITIVE,Communicate instantly with people within the university community,Provide effective calling experiences for individuals and groups
+NEGATIVE,Display layover durations at connecting locations,Reduce the time required to complete tasks
+SYMMETRIC;,Transfer a small amount of money,Send money to other people to split costs
+NEGATIVE,Search chat history for images using a typed keyword,Retain data and ensure continuity across devices while reducing local storage use
+NEGATIVE,Use trusted services to handle personal data,Protect privacy and minimize tracking during flight research and booking
+POSITIVE,Enable guest access and session control for convenient platform use,Log out after completing tasks
+NEGATIVE,Avoid viewing content from undesired sources,Save web-based tutorial or programming education articles into a programming category
+POSITIVE,Browse news and information,Browse a feed of updates to get daily information
+NEGATIVE,Preview video content with short clips to decide what to watch without switching platforms,Provide personalized discovery experience
+SYMMETRIC,Search video content using text input,Quickly search for information on a topic
+NEGATIVE,Use forecasted cloud coverage to decide whether to proceed with or cancel planned outdoor activities or travel.,Mark cities as favorites
+NEGATIVE,Advance to the next part of the interview,Feel that life is continuing and setbacks are not catastrophic
+NEGATIVE,Learn to use a complex tool effectively,Make someone feel happy
+NEGATIVE,Provide a monetization model that balances revenue and user experience,Host live sessions with creators that include Q&A
+SYMMETRIC;,Gather multiple perspectives to inform project work,Offer alternative perspectives on a project before starting
+POSITIVE,Run repeated flight searches across cash and points-based rules to refine results,Compare points or miles costs across airlines to find the best award option
+POSITIVE,Purchase an item,Locate nearby places in a city where a specific item can be obtained
+NEGATIVE,"Check for available coupons, discounts, or upgrades",Determine an airport lounge's access policy for a specific airport and terminal
+POSITIVE,Support social listening and playlist collaboration,Create a playlist for other users to view
+SYMMETRIC,Learn effective techniques for completing the task,Provide guidance that helps someone understand a topic without a steep learning curve
+POSITIVE,Become the leading platform for users and creators,Expand reach to non-English speakers
+POSITIVE,Manage notification and attention levels,Mute high-traffic communication channels to reduce notifications.
+NEGATIVE,Review proposed code changes to ensure they meet quality standards before merging,Enable discoverability and learning from community resources
+POSITIVE,"Conduct outreach with clarity, privacy, and low friction",Follow clear and predictable steps throughout the outreach process
+POSITIVE,"Compose effective, personalized referral request messages.",Include shared affiliations such as university when messaging potential connections.
+POSITIVE,Prevent user-generated posts from disappearing unless the user deletes or archives them.,Reduce the frequency of service outages.
+POSITIVE,Identify the most effective methods for solving practice problems.,Assess programming skill based on performance on contest problems.
+POSITIVE,Provide reliable and accessible weather information experience,Block advertisements from being displayed
+NEGATIVE,Take a bus along a planned route for commuting to work,Alert the driver to changes during a multi-stop.
+POSITIVE,Enable traceability between code changes and planned work,Automatically update an issue tracking board when a pull request is merged
+POSITIVE,"Support creating and sharing community content (posts, experiences, and information)",Share personal experiences so others can draw insights
+POSITIVE,Begin investing,Reduce the risk of significant losses when starting to invest
+POSITIVE,Discover relevant content and communities efficiently,Filter posts by tags to find relevant content
+NEGATIVE,See recommendations for shows similar to a selected or currently watched show,Enable cross-platform content discovery and access decisions
+POSITIVE,Consume streaming media content conveniently,Download videos in advance over a strong wireless network connection
+NEGATIVE,Share a screenshot of below-freezing weather information on social media.,View weather information without advertisements
+POSITIVE,Personalized discovery and delivery of relevant information,Receive continuous updates of the latest information tailored to personal preferences
+POSITIVE,Manage job discovery and evaluation workflow in one place,Save or record job postings and their identifiers for later review or application
+NEGATIVE,Support recruiting for employers by attracting and qualifying candidates,Execute marketing campaigns to increase exposure
+SYMMETRIC,Receive real-time weather condition updates.,"Receive frequent notifications about rain conditions, such as when rain starts, continues, or stops"
+POSITIVE,"Support accessible, usable playback experience",Explain the function of on-screen icons and buttons to unfamiliar users
+SYMMETRIC;,Provide integrations and APIs,Generate financial value
+NEGATIVE,Identify and choose a travel booking provider,Sort available flight options by user-selected criteria such as best overall or lowest price
+NEGATIVE,Complete booking via provider handoff,Search for flights between multiple popular origin airports in the US and multiple popular destination airports in India.
+POSITIVE,Monetize the platform sustainably while protecting the user experience,Grant paying users exclusive content access.
+SYMMETRIC;,Provide a consistent and familiar user experience over time,Use a smooth and convenient user interface
+POSITIVE,Watch short videos,Watch shorter content that fits a limited attention span
+POSITIVE,"Discover, install, and manage extensions/plugins effectively",Select which plugins to install
+NEGATIVE,Prompt users with periodic open-ended questions to gather preferences.,Support creators and maintain a healthy creator ecosystem
+NEGATIVE,Review how other people solve issues,Allow customization of the user interface appearance.
+NEGATIVE,Search for hotel options,Verify remaining lounge visit allowances for limited-access cards within a given time period
+POSITIVE,"Streamline the end-to-end workflow to acquire, store, and read materials on a tablet",Avoid a cumbersome online reading experience
+NEGATIVE,Prevent extremely long advertisements from playing automatically,Open a video viewing platform on a phone
+NEGATIVE,Add sound effects to video content,Support creators in publishing and broadcasting content
+NEGATIVE,Finalize a travel itinerary,Monitor travel prices over time to identify favorable deals
+POSITIVE,Discover places to live,Access and view all features without logging in
+SYMMETRIC;,Reduce the time required to produce and publish professional-quality content,Publish professional-quality content without multiple rounds of review or a full marketing approval process
+NEGATIVE,"Indicate before opening an article whether full access requires a subscription, membership, or sign-in",Categorize news into different categories
+POSITIVE,Play a video,Watch videos frequently
+POSITIVE,Evaluate and improve problem-solving performance using feedback and analytics.,Track completed coding problems and improvement over time
+SYMMETRIC;,Source and recruit candidates for open roles,Improve the quality of candidates identified during recruiting
+POSITIVE,Automate and manage the development pipeline end-to-end,Execute automated tests
+NEGATIVE,Switch to a different call,"Find songs that match a specified mood, emotion, vibe, vision, or mental state"
+NEGATIVE,"Discover, install, and manage extensions/plugins effectively",Monitor the production environment to detect errors
+NEGATIVE,Receive emails in the inbox reliably,Generate a two- to three-sentence summary stating an email's purpose
+NEGATIVE,Allow users to hide an article from the feed,Use a web-based application to answer questions
+POSITIVE,Deliver personalized news notifications based on reading behavior and interests while prioritizing important updates to reduce notification overload.,Reduce the volume of notifications so users are not spammed and can still notice important updates
+NEGATIVE,Determine whether travel times align with the schedule of a person being met,Reduce the time required to identify the best option
+POSITIVE,Win business,Present identity credentials to establish credibility
+NEGATIVE,Expand reach to non-English speakers,"Ensure content safety, compliance, and quality standards"
+NEGATIVE,Share daily activity updates with friends,"Provide privacy, security, and trustworthiness"
+POSITIVE,Interact with an AI assistant through typed text,Remember information from past interactions to provide context in future conversations and reduce repeated input
+POSITIVE,Support day-to-day weather checking and planning.,Check very local weather conditions for hiking trails or mountain climbing routes.
+POSITIVE,Communicate instantly with people within the university community,Access calling features more easily
+POSITIVE,Provide reliable and flexible real-time calling,Enable users to make voice calls with friends
+NEGATIVE,See the available options,View other people’s reviews to evaluate and trust places
+NEGATIVE,Find suitable travel itineraries,Prevent personal data from being shared with additional parties
+POSITIVE,Use a conversational assistant to support learning and personal projects,Enable rich user context input to get more relevant answers
+POSITIVE,Know what is happening in the local area,Browse a home feed of posts
+POSITIVE,Run targeted people search to discover relevant prospects.,Search for people associated with a specific company and educational institution by including those names in search keywords.
+POSITIVE,Enable save-and-revisit workflows for later review and reference,Retain technical details from articles for future use
+NEGATIVE,"Select an origin location from available city, country, or region options, including multiple airports or cities.",Search for flights across a range of departure and return dates.
+POSITIVE,Enable content discovery and selection,Select a video to play
+NEGATIVE,Select connections with layover times that exceed the minimum connection time by a specified multiplier to account for delays,Limit maximum total travel time
+NEGATIVE,"Attach images, videos, or other visual media to posts",Connect with past classmates and view their current activities and updates
+NEGATIVE,Install desired add-ons through a configuration file,Configure the behavior of automatic suggestion generation
+POSITIVE,Find and select flights that meet the traveler’s constraints,Maintain flexibility in flight options
+POSITIVE,"Search for travel options across flexible criteria including multiple origins/destinations, country-based destinations, any-destination from a given origin, date ranges, specific weeks/months, and trip-duration constraints.","Search flights across all route combinations between multiple origin locations and multiple destination locations, including searches without a specific destination selected in advance."
+NEGATIVE,"Invest in relatively safer, well-known cryptocurrencies",Provide actionable market and portfolio insights
+POSITIVE,Manage ride booking and pickup coordination,Book a ride for immediate pickup with an available driver and minimal wait time
+POSITIVE,Manage notifications and attention,Disable do-not-disturb mode.
+POSITIVE,Manage watchlist and availability risk,Help the user avoid having to pay to watch items elsewhere after they become unavailable.
+POSITIVE,Manage messages,Store files and messages in online storage to reduce phone storage usage
+POSITIVE,Assess which assets are performing well or poorly,View portfolio holdings
+NEGATIVE,Save an item for later without creating a new collection.,Share the user’s screen
+POSITIVE,Enable asynchronous collaboration and workflow management for a project team,Create and manage work items on visual boards to plan development
+NEGATIVE,Save an item for later without creating a new collection.,"Browse a unified feed of news from multiple sources, filterable by category"
+NEGATIVE,Find news articles that match personal interests or current work,Provide cross-source transparency and evaluation of news stories.
+POSITIVE,"Conduct outreach with clarity, privacy, and low friction",Provide insight into how the communication process works
+NEGATIVE,Protect user privacy and control visibility while using marketplace and social features,Allow users to access the platform without signing in
+NEGATIVE,Use AI assistance to improve comprehension and productivity in email/message workflows,Send messages
+POSITIVE,Link a project board to a code repository,Automatically update an issue tracking board when a pull request is merged
+POSITIVE,Identify and prioritize suitable referral candidates.,Find potential connections that match target criteria such as employer or university.
+NEGATIVE,Manage the frequency of job alert notifications,Share a post
+SYMMETRIC,Match job roles to an individual's interests and skill set,Identify the best candidate for a job role
+POSITIVE,Save time,Enable users to add forgotten items to an existing grocery order without visiting the physical store
+NEGATIVE,Detect potentially malicious seller accounts,"Complete a purchase transaction (order, payment, and fulfillment)"
+NEGATIVE,Enable instant communication between team members,Access calling features more easily
+POSITIVE,Coordinate project work by linking code changes to planned work,Link a project board to a code repository
+POSITIVE,Retain data and ensure continuity across devices while reducing local storage use,Transfer all messages to a new phone when switching devices
+SYMMETRIC,Check the severity and details of a typhoon alert,Decide whether to seek shelter and stay indoors based on warning information
+NEGATIVE,"Explore and compare travel options across combinations of origins, destinations, and dates to identify preferred choices.",Reduce the time spent researching travel options before booking
+NEGATIVE,Consume information while away from a computer and multitasking,"Enable efficient, personalized news consumption"
+NEGATIVE,Use the ride charge as a receipt for reimbursement,Complete post-trip tasks and records
+NEGATIVE,Return to the news list without losing browsing position or triggering a refresh,Consume information while away from a computer and multitasking
+POSITIVE,Support low-friction discovery and selection of videos,Search for long-form content to watch
+POSITIVE,Solve problems in an interactive coding environment with testing and submission.,Provide predefined test cases for each coding problem.
+POSITIVE,"Provide an accessible, customizable, low-distraction weather experience.",Read weather information in a consolidated layout without excessive scrolling
+NEGATIVE,Play podcasts occasionally,Search the internet to find specific mixes that are unavailable in the primary music source.
+NEGATIVE,Improve flight search effectiveness to get the best results quickly,Adjust departure and arrival times to fit a desired time window
+SYMMETRIC,Evaluate the current situation to inform an approach,Access an interface to view system status and manage infrastructure
+NEGATIVE,Place stock orders by selecting a stock and providing required order parameters,Provide summaries via voice output
+NEGATIVE,Search stored messages and information using keywords to find specific content,Reach a wide audience immediately
+NEGATIVE,View account statements,Receive guidance on advanced algorithms
+POSITIVE,Find and access people and conversations easily,Search for people by name
+NEGATIVE,Build code through a command-line interface,Work productively in a terminal-first development environment
+POSITIVE,Manage code,Customize indentation settings per programming language
+POSITIVE,Complete post-trip ride tasks (payment follow-up and feedback),Tip the driver after a ride
+NEGATIVE,Support message follow-up and personal productivity,Book appointments with a dentist or clinic
+POSITIVE,Confirm booking details and submit final payment to complete the booking,Verify requirements
+POSITIVE,Monitor and understand personal finances and account activity,Send a notification after each transaction
+POSITIVE,Build and leverage a professional network,Find and connect with people in a person's network
+NEGATIVE,Deploy code through a command-line interface,Search for a text string across all files in a project
+NEGATIVE,Provide multiple ways for users to consume and explore podcast content.,Deliver personalized content and recommendations to users
+POSITIVE,"Enjoy an effective, personalized media consumption experience",Watch educational content about specific topics
+POSITIVE,Incorporate external feedback into code reviews and apply resulting suggestions,Merge changes from one branch into another branch
+POSITIVE,"Provide efficient, always-available conversational support",Retrieve and review prior conversation exchanges to revisit previous answers and reasoning
+POSITIVE,Use a music streaming service to listen to music,Search the internet to find specific mixes that are unavailable in the primary music source.
+NEGATIVE,Monitor the production environment to detect errors,Customize indentation settings per programming language
+POSITIVE,Synthesize information to understand what is happening.,Display the most important details from each article
+NEGATIVE,Open a weather event to view detailed information and related news,Adjust daily plans based on the severity and details of weather warnings
+NEGATIVE,Find suitable travel itineraries,Display the lowest-priced option across a grid of date combinations.
+POSITIVE,Consume media flexibly across contexts and constraints,"Watch videos at home while multitasking (e.g., cooking)."
+POSITIVE,Manage and monitor spending,Allow users to dispute a transaction
+NEGATIVE,Explain what to expect if a step or attempt fails.,Access and view all features without logging in
+POSITIVE,Generate financial value,Enable 'read later' and knowledge retention workflows
+POSITIVE,Enable location selection and management for forecasts.,Allow users to set and view weather for preferred locations
+POSITIVE,Use a grocery list while shopping to add listed items to a cart.,"Add items to a cart, including previously purchased items"
+POSITIVE,Enable read-later organization and retrieval of saved content,Save items to a collection for later review.
+NEGATIVE,Provide creators with analytics and insights to improve their podcasts.,Minimize user interactions required to access and start audio content playback.
+NEGATIVE,Communicate with others using shared message categories,Use an email client primarily for work
+POSITIVE,Provide actionable severe-weather awareness and response support.,Receive alerts about severe or extreme weather affecting a specified city
+NEGATIVE,Reset or obtain a new personal identification number,View account and routing numbers
+NEGATIVE,Browse job postings,View posts within a group after joining the group
+NEGATIVE,Open the short-form video page,"Support user control over recommendations, history, and privacy"
+POSITIVE,Provide safe and policy-compliant content access and governance,Block content creators from broadcasting specified types of content
+POSITIVE,Read books and articles digitally,Store books and course materials in a personal online library.
+NEGATIVE,Enable terminal-centric development workflow,Merge code changes into a shared branch
+POSITIVE,Support efficient grocery shopping across online and in-store channels,Pick up an order at a store
+NEGATIVE,Protect personal privacy while using online tools,Book multi-stop flights to visit multiple cities
+POSITIVE,Improve project planning and decision quality before execution,Gather multiple perspectives to inform project work
+POSITIVE,Enable broadcast and announcements to campus audiences,Provide updates about activities and events across campus
+NEGATIVE,Engage the interviewer,Navigate and manipulate project content efficiently
+NEGATIVE,Support saving and later retrieval of content,Discuss recent global events
+NEGATIVE,Automatically identify a category for each message or notification,Work on tasks by their deadlines
+POSITIVE,"Manage inbound communications effectively (triage, organize, and reduce message overload)",Delete spam or unwanted emails
+NEGATIVE,Browse news and information,Discover relevant content efficiently
+NEGATIVE,"Switch between already-open files quickly, including via keyboard shortcuts",Develop software effectively in terminal and portable environments
+SYMMETRIC;,Find and join public groups based on topics or personal interests,Join topic-based community discussion channels
+NEGATIVE,Keep updated information visible without requiring users to scroll to verify changes.,Open a weather event to view detailed information and related news
+POSITIVE,"Generate personalized content recommendations using user listening history, preferences, and other expressed interests","Use listening data and machine learning to recommend podcasts that match user preferences, including daily mixes."
+POSITIVE,Support an end-to-end development pipeline workflow from code to production,Execute automated tests
+NEGATIVE,Control whether others' changes can be incorporated into the main version,Modify code to complete coursework requirements
+POSITIVE,Provide a dedicated method for online reading in a school setting,Receive assigned articles from instructors
+NEGATIVE,"Collect and consider user feedback, ratings, and reviews",Provide subscription benefits that increase revenue and user value
+NEGATIVE,Manage debit card and overdraft features,Make in-store purchases using a digital payment method
+POSITIVE,Maintain a smooth process flow,Reduce the amount of content collaborators need to review
+NEGATIVE,Help the user avoid having to pay to watch items elsewhere after they become unavailable.,Recommend shows and movies based on viewing history and genre preferences
+POSITIVE,Protect user privacy and control communications,Prevent unsolicited job notifications
+NEGATIVE,Share photos and videos instantly with friends,Provide a social feed and community experience
+NEGATIVE,View job details,Retrieve the application link for a job posting after indicating interest
+POSITIVE,Create posts within communities,Tag posts to improve content discoverability
+NEGATIVE,Search for and learn about general health topics,Interact with community discussions about approaches and solutions to coding problems
+POSITIVE,Avoid silence by maintaining continuous background audio,Play media in the background continuously to avoid silence.
+NEGATIVE,Verify that the live production web page is functioning correctly,Spark interest in a topic
+POSITIVE,Personalize and optimize outreach communication to improve response rates.,Use technology to condense messages so they fit within character limits while preserving the intended meaning.
+NEGATIVE,Allow viewers to choose videos to watch from available options,Discover video content relevant to the viewer’s interests or intent
+POSITIVE,Ensure code is accessible and resilient across devices and over time,Back up code in secure storage to prevent loss
+POSITIVE,Receive scheduled weather update notifications multiple times per day.,Limit notifications to three times per day
+NEGATIVE,Find specific items to purchase,Obtain a phone number to use for making a payment
+POSITIVE,Run measurable marketing to generate business outcomes,Reduce the staffing required to run marketing activities
+NEGATIVE,Link a credit or debit card to a digital payment system,Retain data and ensure continuity across devices while reducing local storage use
+POSITIVE,Play media in the background,"Listen to audio content such as music, podcasts, streams, or audiobooks"
+NEGATIVE,Track comment threads,Get answers and information efficiently from online communities
+POSITIVE,Get actionable feedback on solutions to improve.,Allow users to add custom test cases to a coding problem.
+POSITIVE,View detailed feedback and a per-section grading breakdown for a graded assignment,See which part of an assignment each piece of feedback refers to
+SYMMETRIC,View saved articles filtered by a selected topic,Save news articles for later reading
+POSITIVE,Provide sufficient context to the assistant to reduce misunderstandings and rework,Attach images to questions to better illustrate them
+POSITIVE,Change application settings,Enable or disable captions
+POSITIVE,Browse news and information,Get information about major international events
+NEGATIVE,Enable social sharing and consumption of user-generated content,Explain what an account is
+POSITIVE,Participate in timed programming contests to achieve a strong score.,Compare a solution's performance to other users' solutions
+POSITIVE,Avoid a cumbersome online reading experience,Support a streamlined end-to-end reading workflow from discovery/assignment to reading on a tablet
+NEGATIVE,Set aside a dedicated block of time to practice questions,Write solutions to coding problems
+NEGATIVE,Open the exact booking page with trip details already pre-filled,Book last-minute flights
+NEGATIVE,Watch a large quantity of content,Enable accountable communication and discussion
+NEGATIVE,Select which plugins to install,Manage multiple files
+POSITIVE,Solve a problem,Retrieve accurate answers to user queries quickly
+NEGATIVE,Search for a person by name,Save updates made to a personal profile
+NEGATIVE,Protect user privacy and secure location data.,View significant weather events occurring in a specified location
+POSITIVE,Find low-cost flight options and monitor prices over time to secure the best available fare before booking,Monitor travel prices over time to identify favorable deals
+NEGATIVE,Restore the previous workspace or session state quickly after a shutdown,Communicate with a computer system through a command-line interface
+POSITIVE,Enforce and execute code review governance before merge,Approve proposed changes after reviewing them to ensure they meet defined standards and requirements
+POSITIVE,Support background and multitasking-friendly media consumption,Continue video playback while browsing other content
+POSITIVE,"Access airport lounges while traveling, including in different countries",Manage airport lounge access for the trip
+POSITIVE,Resolve technical issues independently,Improve menu navigation
+NEGATIVE,"Add media and interactive content to a post, including images, videos, links, and polls",Stay updated on trends
+POSITIVE,Publish and distribute engaging professional content,Create content for posts
+POSITIVE,Find videos to watch,Manage video discovery and selection
+POSITIVE,Enable content creators to broadcast content to viewers,Enable creators to publish and manage video content
+NEGATIVE,"Review deposits and withdrawals, including those made during the current month.",Reduce the risk of significant losses when starting to invest
+POSITIVE,Consume streaming media content conveniently,Watch videos in the background
+POSITIVE,Monitor student code and project progress,View pull requests
+NEGATIVE,View job recommendations,"Join an active, relevant group"
+NEGATIVE,Transfer small amounts of money instantly to another person using their phone number,Monitor and understand personal finances and account activity
+NEGATIVE,View monitoring and logging information,Open files quickly
+POSITIVE,Obtain job referrals from relevant employees at a target company.,Discover and shortlist high-quality referral prospects.
+NEGATIVE,Book a flight and lodging for a trip,Find flights at good prices
+POSITIVE,View job details,Understand how one would contribute to a team or company
+NEGATIVE,List items for sale,Protect users' privacy and control visibility on the platform
+NEGATIVE,Protect user privacy and prevent unwanted contact,Display job openings that match selected personal filters and criteria
+POSITIVE,Find a desired place to live when relocating to a new neighborhood or country,Get recommendations from local residents about places to live
+POSITIVE,"Enable visually browsing and scrolling through lists of video content, including recommendations",Display content thumbnails with descriptive details while browsing
+SYMMETRIC,Send messages,Communicate with friends
+POSITIVE,Manage multiple files,"Switch between already-open files quickly, including via keyboard shortcuts"
+NEGATIVE,"Support user control over recommendations, history, and privacy",Temporarily hide or reset viewing history without permanently deleting it
+NEGATIVE,Pause video playback on demand,View a video in full-screen layout
+NEGATIVE,Run marketing more efficiently through automation and performance optimization,Publish and optimize professional social content to grow reach
+POSITIVE,Book a ride for immediate pickup with an available driver and minimal wait time,Delay requesting a ride when the price is too high
+NEGATIVE,"Retrieve additional weather details for a selected hour (e.g., humidity, UV index, feels-like temperature).",Prevent location information from being stored remotely while authenticated
+NEGATIVE,Reorder items from past purchases,Prevent an item from being substituted with an alternative
+NEGATIVE,Complete provider outreach end-to-end with guidance and fallback handling,Filter results by whether utilities are included
+NEGATIVE,View detailed feedback and a per-section grading breakdown for a graded assignment,Identify specific areas for improvement using detailed insights
+POSITIVE,Deliver technically accurate results for most tasks,Use a preferred platform for asking coding questions
+NEGATIVE,Add a body to a post,Customize how posts are displayed in a feed
+POSITIVE,Read on a tablet instead of a computer,"Open documents, including PDF files, on a tablet"
+POSITIVE,Support uninterrupted playback while multitasking,Enable consuming content through audio without needing to watch visual cues
+NEGATIVE,Use an email client primarily for work,Help someone gain a deeper understanding of how users want to use a product
+NEGATIVE,Access and view all features without logging in,Preserve user privacy and reduce friction during provider outreach
+POSITIVE,Source and recruit candidates for open roles,Discover and evaluate professionals on the platform
+POSITIVE,View detailed feedback and related queries for an assignment,View the assignment query
+POSITIVE,Support creators and maintain a healthy creator ecosystem,Provide creator-focused tools and features that encourage creators to remain on the platform
+NEGATIVE,Zoom in on a user-selected location,"When filtering by pet policy, include listings with unspecified pet policy unless the user requires pet allowance"
+NEGATIVE,Receive a daily highlight of the next day's weather,Prevent location information from being stored remotely while authenticated
+SYMMETRIC;,Play media in the background,Enable consuming content through audio without needing to watch visual cues
+POSITIVE,Maintain traceability between code changes and planned work,Link a pull request to an issue or work item
+NEGATIVE,Search for extensions,Open a specified project file for editing
+NEGATIVE,Filter video content to find specific types,Access a central feed showing the latest content from subscribed creators
+NEGATIVE,Mark unwanted or viewed news items as read or hidden,"Track whether each article is unread, viewed, or marked as read without being opened"
+NEGATIVE,Enable local marketplace discovery and purchasing,View content and location/activity updates from followed people
+NEGATIVE,Complete a commerce transaction end-to-end,Log out after completing tasks
+NEGATIVE,Reject changes that do not meet established standards,Recover codebase work after device loss or corruption
+POSITIVE,Provide alternative recommendations for what to listen to,Receive recommended playlists based on listening behavior and similarity to other listeners with comparable preferences
+NEGATIVE,Support informed day-to-day decisions using weather information,Receive real-time weather condition updates.
+NEGATIVE,Browse social content,Search messages to locate credit card numbers in text content
+POSITIVE,Open a web browser to access email,Receive emails in the inbox reliably
+POSITIVE,Compose and send messages effectively and safely,Schedule messages to be sent at specified times
+POSITIVE,Write code within a terminal environment,Highlight code syntax while editing
+POSITIVE,Maximize the number of articles that can be accessed,"Browse a unified feed of news from multiple sources, filterable by category"
+NEGATIVE,Receive alerts about severe or extreme weather affecting a specified city,Decide whether to seek shelter and stay indoors based on warning information
+POSITIVE,Be able to work using either of two different methods,Enable terminal-based development workflow
+POSITIVE,Make payments for purchases,Link a credit or debit card to a digital payment system
+NEGATIVE,Manage store context for shopping (store selection and availability correctness),Use a grocery list while shopping to add listed items to a cart.
+NEGATIVE,Review all received emails,Organize and retrieve messages for follow-up and productivity
+POSITIVE,Provide hour-level and multi-range weather forecasting for decision-making.,Receive a daily highlight of the next day's weather
+NEGATIVE,Save web-based tutorial or programming education articles into a programming category,Read news without needing to create multiple accounts
+NEGATIVE,"Maintain a unified, searchable personal reading library",Enable cross-platform access to reading materials (tablet-first)
+POSITIVE,Support end-to-end software delivery pipeline (build/test/deploy/monitor),Access an interface to view system status and manage infrastructure
+POSITIVE,Enable secure and compliant access to trading features,View personal information
+POSITIVE,Streamline and support provider outreach from discovery to response,"Enable fast, clear communication with property owners"
+NEGATIVE,Allow users to add custom test cases to a coding problem.,Get actionable feedback on solutions to improve.
+NEGATIVE,Enable private searching so others cannot tell when the user is online,Log out after completing tasks
+SYMMETRIC;,Connect with other people,View content and location/activity updates from followed people
+NEGATIVE,Use an editor that provides color visualization for front-end work,Monitor the production environment to detect errors
+NEGATIVE,Receive multiple show options to choose from based on viewing preferences,Notify the user about watchlist items that will become unavailable about one month in advance.
+NEGATIVE,Support topic-based communities and Q&A discussions.,Detect and filter inauthentic content
+SYMMETRIC,Receive and use coding problem identifiers to find specific problems,Select practice questions by identifier number.
+NEGATIVE,Choose notification delivery channels,Maintain an up-to-date professional profile
+SYMMETRIC,Reduce the time spent researching travel options before booking,Find accurate information efficiently while reducing research time
+POSITIVE,Return later to complete follow-up tasks associated with messages,Tag emails or messages that require follow-up later
+NEGATIVE,Evaluate the current situation to inform an approach,Develop software effectively in terminal and portable environments
+NEGATIVE,Manage money transfers and payments across channels,Send a notification after each transaction
+POSITIVE,Support focused reading with progress feedback,View the percentage of completion for the current chapter
+NEGATIVE,Use the service without advertisements,Search the internet to find specific mixes that are unavailable in the primary music source.
+POSITIVE,"Provide cross-device, reproducible personalization and setup",Install plugins via a configuration file and an install command
+POSITIVE,"Decide whether to proceed with, change, or cancel a trip based on forecast conditions",Update and review forecasts closer to departure for improved accuracy
+NEGATIVE,Use a grocery list while shopping to add listed items to a cart.,Manage store context and item availability to ensure valid orders
+NEGATIVE,"Provide efficient, low-friction interaction for getting help","Use an advanced generative AI model for logical analysis, reasoning, and understanding tasks more frequently"
+POSITIVE,Protect privacy by preventing unauthorized access to or use of personal data and conversations,Encrypt data at rest and in transit
+POSITIVE,Use a conversational assistant to support learning and personal projects,Support project and product design workflows from ideation to concept visualization
+SYMMETRIC;,Learn effective techniques for completing the task,Provide guidance that helps someone understand a topic without a steep learning curve
+POSITIVE,Manage money transfers end-to-end,Transfer money between accounts
+POSITIVE,Find news articles that match personal interests or current work,Read news about political developments that may have personal impact
+SYMMETRIC,Book flights for travel,Book flights in advance to get better prices or deals
+POSITIVE,Plan what to wear for a particular day based on the weather forecast,Recommend what to carry for the day based on the weather forecast
+POSITIVE,Communicate with friends in real time,Request that an interviewer repeat a question
+POSITIVE,Take vacation flights,Book flights for travel
+POSITIVE,Watch videos recommended by others,View other users' goals
+POSITIVE,Manage a watchlist to plan viewing,Prioritize the user's watchlist based on how soon items will become unavailable.
+NEGATIVE,Share a post,Maintain an up-to-date professional profile
+POSITIVE,Place an order for items online,Use a shopping website to find grocery items quickly without unnecessary browsing
+NEGATIVE,Enter a destination,Compare travel booking websites to find the best available options
+POSITIVE,Know what is happening in the local area,Learn about news and events happening in a different location
+NEGATIVE,Automate and unify the build-test-deploy pipeline,Provide in-context guidance for using new tools without external documentation
+SYMMETRIC,Provide content recommendations users like to reduce user churn.,Deliver personalized content and recommendations to users
+POSITIVE,Monetize the platform while protecting the user experience,"Optimize the frequency, placement, and amount of advertising to minimize disruption and protect the user experience."
+NEGATIVE,Support audio and on-the-go news consumption,"Browse a unified feed of news from multiple sources, filterable by category"
+POSITIVE,See the available options,Browse available housing options and view their prices
+SYMMETRIC,Use a grocery list while shopping to add listed items to a cart.,"Add items to a cart, including previously purchased items"
+NEGATIVE,Provide more detailed information about work experience and education,Allow applicants to customize application details for specific job roles.
+NEGATIVE,Determine whether travel times align with other transportation schedules,Use features without creating or setting up an account
+NEGATIVE,Get help and guidance within the app,Set or change debit card spending limits
+SYMMETRIC,Save videos to watch later,Browse previously saved content to choose something to watch
+NEGATIVE,Transfer money to a merchant,Search chat history for images using a typed keyword
+NEGATIVE,Enter comparison parameters in a single interface to determine the best overall option,"Make search results actionable by supporting selection, verification, and booking handoff"
+POSITIVE,Read books and articles digitally,Support an integrated tablet reading experience with focus and progress aids
+POSITIVE,Enable communication between people who prefer not to talk directly to each other,Participate in topic-based communities
+NEGATIVE,"Maintain user trust via privacy, reliability, and experience stability",View a video in full-screen layout
+NEGATIVE,"Conduct outreach with clarity, privacy, and low friction",Decide on a home within one week to one month
+NEGATIVE,"Use reward points, miles, or vouchers to book flights",Navigate to the selected provider’s itinerary booking page
+POSITIVE,Streamline the end-to-end job application workflow from discovery to submission,Consolidate all relevant information in a single location
+POSITIVE,Receive school news and notifications,Receive emails in the inbox reliably
+SYMMETRIC;,Retrieve weather forecasts for a travel destination in advance,Estimate expected weather conditions during the travel dates
+SYMMETRIC;,Navigate to the homepage or dashboard,Access course pages
+SYMMETRIC;,"Request that other users review, add, or like a playlist",Create a playlist for other users to view
+SYMMETRIC,Take solo vacations,Take vacation flights
+NEGATIVE,Communicate instantly with people within the university community,Stay informed about what participants are discussing and sharing in a group conversation
+NEGATIVE,Limit the number of times a person is shown advertisements for the same product,Provide search and Q&A discovery and participation
+NEGATIVE,Recommend shows and movies based on viewing history and genre preferences,Maintain stable content recommendations over time
+SYMMETRIC,Consume information while away from a computer and multitasking,Browse news while walking a dog
+POSITIVE,Manage store context to ensure item availability and correct ordering,Show which searched items are available at the selected store
+NEGATIVE,Review proposed code changes to ensure they meet quality standards before merging,Enforce code quality gates before changes reach the primary branch
+NEGATIVE,Limit the number of times a person is shown advertisements for the same product,Provide a secure and trustworthy platform experience
+NEGATIVE,Link a pull request to an issue or work item,"Provide discovery and learning resources for code, users, and automation"
+NEGATIVE,Support background and multitasking-friendly media consumption,Allow users to scroll to find and resume a previously unfinished video
+POSITIVE,"Input travel search parameters such as origins, destinations, dates, traveler count, class, and preferences.",Determine the user's city based on their IP address
+POSITIVE,Discuss recent global events,Discuss trending events with coworkers.
+SYMMETRIC,"Review daily news updates across key topics, including finance and politics.",Stay up to date on business news
+NEGATIVE,Write code every day,Access an interface to view system status and manage infrastructure
+POSITIVE,Manage notifications to be timely and not overwhelming,"Receive more frequent (e.g., hourly) weather updates during extreme or unfavorable conditions."
+POSITIVE,Match job roles to an individual's interests and skill set,Identify whether each job posting specifies a required skill set.
+POSITIVE,Support global and inclusive access to content,Provide accessibility features for users with special needs.
+POSITIVE,Display job openings that match selected personal filters and criteria,"Filter job listings by role, company, and location"
+NEGATIVE,View public discussion forums,Modify code to complete coursework requirements
+SYMMETRIC;,Provide easy access to group calling,Access calling features more easily
+SYMMETRIC,"View itinerary details including departure and arrival times, duration, and arrival day","Show complete itinerary details, including operating carrier, segment timing, terminals, and connections, so the traveler can verify all travel information before booking."
+NEGATIVE,Avoid switching back and forth between web pages,Browse news while walking a dog
+NEGATIVE,Provide secure account and session management,Provide effective content discovery and navigation
+NEGATIVE,Choose a video to watch from a saved list,Record conversations
+POSITIVE,Compare the job’s required skills to the user’s profile skills to compute a match score.,Filter and list job postings that meet a configurable skill-match threshold.
+POSITIVE,Navigate and manipulate project content efficiently,Quickly locate a specific file within a large project
+POSITIVE,Provide accessible and efficient calling experiences (1:1 and group),Provide easy access to group calling
+NEGATIVE,Prevent sending the wrong amount or transferring money to the wrong person,Access a spending limit feature
+POSITIVE,Enable music discovery and personalization,Listen to new songs
+NEGATIVE,Apply synchronized personal configuration settings on any device,View monitoring and logging information
+NEGATIVE,View grades,Manage coursework and assignment lifecycle in one place
+POSITIVE,Provide a social feed and community experience,Browse a home feed of posts
+POSITIVE,Enable media playback tailored to user context,Watch videos in the background
+POSITIVE,Discover relevant job opportunities,Search for job postings by keyword
+POSITIVE,"Maintain platform trust, safety, and content quality",Enforce controls on all user uploads.
+NEGATIVE,"Use reward points, miles, or vouchers to book flights",Complete required declaration forms
+POSITIVE,Enable communication between people who prefer not to talk directly to each other,Send messages to other users
+SYMMETRIC;,"Access content, information, and features without logging in",Allow users to access the platform without signing in
+SYMMETRIC;,Enable content discovery and selection,Access a variety of content types and view desired content
+POSITIVE,Prevent applying to job openings that are no longer current,Access an up-to-date list of relevant job opportunities
+POSITIVE,Trade cryptocurrencies using an easy-to-use exchange interface,Convert cash from a bank account into cryptocurrency
+POSITIVE,"Manage outbound communications effectively (compose, review, and safely send messages)",Send bulk messages to many recipients within a short time span
+NEGATIVE,Support users in planning and decision-making using weather forecasts.,View weather forecasts across different time ranges such as weekend and monthly
+NEGATIVE,Enable secure and compliant access to trading features,Monitor stock price movements in real time
+NEGATIVE,Ask healthcare professionals health-related questions,Add a title to a post
+NEGATIVE,Search for short-form videos effectively,Compose a message with minimal user input
+POSITIVE,Search for information about a topic,Purchase an item
+POSITIVE,Obtain accurate AI assistant outputs for most tasks,Detect and correct hallucinations in model-generated outputs
+NEGATIVE,Provide market awareness through monitoring and summaries,View a detailed list of items with price increases or decreases
+NEGATIVE,Manage video discovery and selection,Decide how much time to spend on a course based on grade information
+POSITIVE,Place stock orders by selecting a stock and providing required order parameters,Set target buy or sell prices
+SYMMETRIC;,Read recommended safety actions for responding to a typhoon,Check the severity and details of a typhoon alert
+NEGATIVE,Guide new users through adding their credentials.,Receive updates about campus activities and events
+NEGATIVE,"Provide accurate, consistent performance results for the same code over time","Support focused, personalized practice planning."
+NEGATIVE,Build and maintain a professional network,Schedule a social media post for a later time to maximize impressions
+NEGATIVE,Protect user privacy and reduce unwanted influence/manipulation in the news experience.,Read only headlines when time is limited
+POSITIVE,Interact with an AI assistant through typed text,Improve understanding of user questions
+POSITIVE,Manage post-ride tasks (payments/receipts and feedback),Tip the driver after a ride
+NEGATIVE,Use contextual decision-making to avoid selecting ads based on a single mention of a topic,Provide a secure and trustworthy platform experience
+POSITIVE,Search for an answer to a problem,Identify and choose the most relevant online community for a given question or topic based on a typed description or search query
+POSITIVE,Organize and retrieve messages for follow-up and productivity,Return later to complete follow-up tasks associated with messages
+SYMMETRIC;,Receive alerts about extreme weather conditions,Postpone events when extreme weather conditions are expected
+POSITIVE,"Support accessible, usable playback experience",Adjust color settings to support colorblind viewers
+NEGATIVE,Monitor travel prices over time to identify favorable deals,View aggregated travel search results in a single interface
+NEGATIVE,"Deliver a fast, readable, low-distraction user experience with configurable preferences.",Allow users to check weather for specific non-city locations
+NEGATIVE,Support learning and onboarding through guided education,Reduce the need to repeatedly check for information
+POSITIVE,Track status of job-related items,Track saved job postings over time
+POSITIVE,Play a video,Watch videos in the background
+POSITIVE,"Discover, install, and manage extensions/plugins effectively",Integrate an extension into an existing system
+NEGATIVE,Review transfer details to confirm they are correct before sending,Monitor and understand personal finances
+NEGATIVE,Merge approved code changes into the main codebase,Automatically update an issue tracking board when a pull request is merged
+NEGATIVE,"Sort available itineraries by user-selected criteria such as best overall, lowest price, or shortest travel time",Compare options to identify the lowest available prices and best-value deals.
+NEGATIVE,Maintain code quality and stability in the primary codebase,Modify code to complete coursework requirements
+NEGATIVE,Maintain and present a professional profile,Edit sections of a personal profile
+NEGATIVE,Filter results by housing type,Filter results by move-in date
+NEGATIVE,Start a shared listening session with other people,Listen to songs from curated or favorited playlists
+NEGATIVE,Determine the source of the weather data.,Protect users' location privacy and data security.
+POSITIVE,Support saving and later retrieval of content,Organize saved articles into user-defined categories
+POSITIVE,Match job roles to an individual's interests and skill set,Filter and list job postings that meet a configurable skill-match threshold.
+POSITIVE,Use a primary authoritative source to maintain accurate global lounge-access information,Check an airport lounge's operating hours for a specific airport and terminal and stopover time
+SYMMETRIC;,Enable consuming content through audio without needing to watch visual cues,Play media in the background
+NEGATIVE,Allow users to find a previously watched short video again,Revisit previously viewed content
+NEGATIVE,Enable publishing a video before the full file upload completes,Walk through application workflows
+NEGATIVE,"Search flights using flexible origin and destination areas, including nearby airports.",Remind the traveler to book when monitored flight prices become too high
+NEGATIVE,Export content to an e-reader account.,Support a streamlined end-to-end reading workflow from discovery/assignment to reading on a tablet
+POSITIVE,Plan and select an appropriate transportation option for the trip,Reduce the amount of walking required during a trip
+SYMMETRIC,Reduce unnecessary notifications while ensuring important ticket release dates are not missed,Reduce the volume of notifications so users are not spammed and can still notice important updates
+POSITIVE,Customize an editing environment to match personal preferences using add-ons and interface settings,Install plugins via a configuration file and an install command
+NEGATIVE,Complete a small set of easy-to-medium practice questions for a refresher,Solve problems in an interactive coding environment with testing and submission.
+POSITIVE,Monetize the platform sustainably while protecting user experience,Provide paying users early access to content.
+POSITIVE,Customize a system by editing a configuration file,Enable tools to be declared in a configuration file
+NEGATIVE,Scroll through a list of posts,Set notification types for job alert notifications
+NEGATIVE,Indicate availability for employment opportunities,Receive responses to connection requests from people outside an existing network
+POSITIVE,Apply for job openings,Identify the best candidate for a job role
+SYMMETRIC;,Allow users to access the platform without signing in,"Access content, information, and features without logging in"
+NEGATIVE,Support mood-based and personalized discovery,Get a new personalized music mix generated daily based on listening habits
+POSITIVE,Have a human review generated content for factual accuracy,Verify the factual accuracy of generated content.
+NEGATIVE,Provide context for code changes to support peer review,Review proposed code changes to ensure they meet quality standards before merging
+POSITIVE,Support a unified school reading workflow on tablets,Import course content to a tablet with fewer steps
+NEGATIVE,Protect the traveler from time-related itinerary mistakes,Block cookies while browsing
+NEGATIVE,Support continuous background listening experiences,Listen to songs similar to a selected song
+POSITIVE,"Use a terminal-first, portable development environment",Save the current workspace or session state so it can be resumed after a shutdown
+POSITIVE,Access reliable real-time calling with fallbacks,Enable users to make voice calls with friends
+SYMMETRIC,Customize a system by editing a configuration file,Modify configuration files and settings
+NEGATIVE,"Send messages to professors via direct messaging, shared channels, or email",Retrieve a link for submitting an assignment
+SYMMETRIC;,Provide command-line access to machines without a graphical user interface.,Communicate with a computer system through a command-line interface
+POSITIVE,Enable users to make informed investment decisions,Analyze how different actions impact profit and loss outcomes
+SYMMETRIC,Display detailed and accurate weather conditions that match real-world observations and remain consistent across sources.,Retrieve weather information for a specified location.
+POSITIVE,View a list of chat conversations with contacts or groups,"Organize and manage conversations in the chat list, including pinning important chats to keep them at the top"
+NEGATIVE,Prevent anyone other than the account owner from accessing the account.,Stay informed about global events and trends
+NEGATIVE,Communicate with people through a platform that lacks built-in communication features,Support community participation and discovery
+SYMMETRIC;,Present news items for review when arriving at a location,Access news on a flexible schedule
+POSITIVE,Enable media playback tailored to user context,Stream audio and video content across platforms
+POSITIVE,Provide actionable severe-weather awareness and response support.,Adjust daily plans based on the severity and details of weather warnings
+POSITIVE,Provide a backup code after account creation for use in two-factor authentication.,Store backup and access information securely for future use.
+NEGATIVE,Filter flight search results by departure airport within a city.,Manage airport lounge access for the trip
+NEGATIVE,"Provide cross-source transparency and analysis so users can understand provenance, differences, and credibility of news coverage.",Continue to see breaking news alerts for selected topics or events even when other related content is hidden.
+POSITIVE,Provide a unified personal reading library that persists over time,Save valuable documents and resources for later access
+POSITIVE,Ensure privacy-preserving usage (minimize tracking and unnecessary data sharing),Protect personal privacy while using online tools
+POSITIVE,Optimize search queries and results relevance for finding potential connections.,Adjust search keywords to surface more relevant people in search results

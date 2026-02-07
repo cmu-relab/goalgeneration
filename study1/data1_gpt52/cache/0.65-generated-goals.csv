@@ -1,0 +1,17 @@
+index,excerpt,goal,i_match,s_match,turn_match,multiturn
+0,"Interviewer: Thank you. Thanks.
+
+Stakeholder: Downward. Yeah.
+
+Interviewer: Nice, good.
+
+Stakeholder: Okay. I think we don't have any other specific works to do. Now. we just need to like [review the transcripts] and submit our individual assignments in time.
+",Review the transcripts,0,1,[133],N
+1,"Interviewer: Thank you. Thanks.
+
+Stakeholder: Downward. Yeah.
+
+Interviewer: Nice, good.
+
+Stakeholder: Okay. I think we don't have any other specific works to do. Now. we just need to like review the transcripts and [submit our individual assignments in time].
+",Submit individual assignments on time,0,1,[133],N

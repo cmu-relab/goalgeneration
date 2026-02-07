@@ -1,0 +1,119 @@
+fix#1:
+
+mapping = dict()
+new_data1_moving = dict()
+
+for k in data1_moving:
+    for l in data1_gpt52_moving:
+        if data1_moving[k][0]['excerpt'] == data1_gpt52_moving[l][0]['excerpt']:
+            mapping[k] = l
+            new_data1_moving[k] = data1_gpt52_moving[l]
+            break
+
+>>> mapping
+{'0': '32', '1': '35', '2': '34', '3': '33', '4': '20', '5': '18', '6': '27', '7': '9', '8': '11', '9': '7', '10': '29', '11': '16', '12': '6', '13': '28', '14': '17', '15': '10', '16': '19', '17': '26', '18': '8', '19': '21', '20': '36', '21': '31', '22': '30', '23': '24', '24': '23', '25': '4', '26': '15', '27': '3', '28': '12', '29': '13', '30': '5', '31': '14', '32': '22', '33': '25'}
+
+dumped json and renamed extract-moving.json (backed up old one)
+
+fix#2:
+
+data = json.load(open("data1_gpt52/extracted-moving.json")
+
+# fix all the goal dicts into lists
+for k in data:
+    i = 0
+    while i < len(data[k]):
+        m = data[k][i]['goals']
+        if isinstance(m, dict):
+            if len(m) > 0:
+                if 'goals' in m:
+                    data[k][i]['goals'] = m['goals']
+                else:
+                    print(m.keys())
+            else:
+                data[k][i]['goals'] = []
+        elif isinstance(m, list):
+            print("data[%s][%d]['goals'] was a list. ok" % (k, i))
+        else:
+            print(type(m))
+        i +=1
+
+fix #3:
+# fix all phrases into lists
+for k in data:
+    i = 0
+    while i < len(data[k]):
+        m = data[k][i]['phrases']
+        if isinstance(m, dict):
+            if len(m) > 0:
+                if 'goals' in m:
+                    data[k][i]['phrases'] = m['goals']
+                elif 'results' in m:
+                    data[k][i]['phrases'] = m['results']
+                elif 'items' in m:
+                    data[k][i]['phrases'] = m['items']
+                elif 'matches' in m:
+                    data[k][i]['phrases'] = m['matches']
+                elif 'data' in m:
+                    data[k][i]['phrases'] = m['data']
+                elif 'goal' in m and 'phrases' in m:
+                    data[k][i]['phrases'] = [data[k][i]['phrases']]
+                elif 'error' in m:
+                    data[k][i]['phrases'] = [] # all cases are phrases': {'error': 'No goals provided'...}
+                else:
+                    print("data[%s][%d]['phrases'].keys()" % (k, i))
+                    print(m.keys()) # goals key not seen... but was a dict...
+            else:
+                data[k][i]['goals'] = []
+        elif isinstance(m, list):
+            # print("data[%s][%d]['phrases'] was a list" % (k, i))
+            pass
+        else:
+            print(type(m))
+        i +=1
+
+#fix #4
+for k in data:
+    i = 0
+    while i < len(data[k]):
+        m = data[k][i]['phrases']
+        if isinstance(m, dict):
+            if len(m) > 0:
+                data[k][i]['phrases'] = []
+                for key in m:
+                    data[k][i]['phrases'].append(m[key]) # cases where ['phrases']{ m: {goals: m, phrases... }
+        elif isinstance(m, list):
+            # print("data[%s][%d]['phrases'] was a list" % (k, i))
+            pass
+        else:
+            print(type(m))
+        i +=1
+
+#fix #5
+for k in data:
+    i = 0
+    while i < len(data[k]):
+        m = data[k][i]['phrases']
+        data[k][i]['phrases'] = {'goals': m}
+        i +=1
+
+#fix #6 revert
+for k in data:
+    i = 0
+    while i < len(data[k]):
+        m = data[k][i]['phrases']
+        data[k][i]['phrases'] = m['goals']
+        i +=1
+
+
+output:
+0	416
+1	757
+2	909
+3	827
+4	845
+5	718
+6	748
+7	730
+8	519
+9	320
